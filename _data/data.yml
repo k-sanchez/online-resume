@@ -203,7 +203,7 @@ education:
     - institution: Universidad Nacional de Misiones
       link:
       date: 2010 - 2017
-      major: Genética
+      major: Genetics
       degree: Bachelor/Licenciatura
       description:
 
@@ -211,29 +211,46 @@ certificate:
   show: true
   order: 6
   title: Certificates
-  description: |
-    The certificate section in a resume is a dedicated section where you can showcase any additional certifications or specialized training you have received. This section provides potential employers with a more complete picture of your skills and expertise, and can help you stand out from other candidates.
-
-    Certificates can come from a variety of sources, such as online courses, workshops, or professional development programs. Examples of certificates that might be relevant to include on your resume could include certifications in a particular software or technology, industry-specific certifications, or certifications related to a specific skill or area of expertise.
-
-    When including your certificates in your resume, be sure to provide the name of the certification, the institution or organization that issued it, and the date it was issued. You may also want to include a brief description of the skills or knowledge that the certification demonstrates.
-
-    The certificate section of your resume should be tailored to the specific job you are applying for, and should only include certifications that are relevant to the position. By highlighting your certifications, you can demonstrate your commitment to professional development and your expertise in a particular area.
-
+  description:
   items:
-    - name: Example Certificate One
-      issuer: by Example
-      date: 2020
-      link: '#'
-      description: |
-        It's my Example Certificate One by Example.
-    - name: Example Certificate Two
-      issuer: by Example
-      date: 2020
+    - name: Programación en Python
+      issuer: Universidad Nacional de San Martín
+      date: 2021
       link:
-      description: |
-        It's my Example Certificate Two by Example.
+      description:
+      
+    - name: Phylogenomics
+      issuer: Transmitting Science
+      date: 2020
 
+    - name: Herramientas de análisis en filogeografı́a
+      issuer: Universidad Nacional del Comahue
+      date: 2019
+
+    - name: Sistemas de Información Geográfica (SIG) aplicados a la Ecologı́a
+      issuer: Universidad Nacional de la Patagonia “San Juan Bosco”
+      date: 2019
+
+    - name: Análisis de la estructura genética de poblaciones naturales
+      issuer: Universidad Nacional de Córdoba
+      date: 2018
+
+    - name: Diplomatura Bioestadı́stica básica aplicada, mediada con entorno R
+      issuer: Universidad Nacional de Córdoba
+      date: 2018
+
+    - name: Análisis macroevolutivos cuantitativos en R
+      issuer: Universidad Nacional de la Patagonia “San Juan Bosco”
+      date: 2018
+
+    - name: Introducción a la Morfometrı́a Geométrica
+      issuer: Universidad Nacional de la Patagonia “San Juan Bosco”
+      date: 2018
+
+    - name: Fundamentos de R
+      issuer: Universidad Nacional de la Patagonia “San Juan Bosco”
+      date: 2018
+                                    
 publication:
   show: true
   order: 7
