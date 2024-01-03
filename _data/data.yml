@@ -183,128 +183,128 @@ conference:
   description:
   items:
     - name: "Review of the present status of Leiosaurae: taxonomy, distribution, and conservation issues"
-      author: Avila LJ, <u>Sánchez KI</u>, Vrdoljak JE, Morando M
+      authors: Avila LJ, <u>Sánchez KI</u>, Vrdoljak JE, Morando M
       date: 2023
       # link: '#'
       description: "Camp’23: Celebrating 100 years of Charles L. Camp’s Classification of the Lizards"
 
     - name: Reticulation in Squamata, the changing notion of species and a challenge for classification
-      author: Morando M, <u>Sánchez KI</u>, Avila LJ
+      authors: Morando M, <u>Sánchez KI</u>, Avila LJ
       date: 2023
       description: "Camp’23: Celebrating 100 years of Charles L. Camp’s Classification of the Lizards"
 
     - name: Detectando al flujo génico en la era genómica
-      author: <u>Sánchez KI</u>, Morando M
+      authors: <u>Sánchez KI</u>, Morando M
       date: 2023
       description: V Reunión Argentina de Biología Evolutiva
 
     - name: "Navegando el paisaje de la biodiversidad: un flujo de trabajo taxonómico en el marco de la metáfora del mapa y el territorio"
-      author: Vrdoljak J, <u>Sánchez KI</u>, Avila LJ, Morando M
+      authors: Vrdoljak J, <u>Sánchez KI</u>, Avila LJ, Morando M
       date: 2023
       description: V Reunión Argentina de Biología Evolutiva
 
     - name: |
         Enigma críptico: ¿cuántas especies incluye <i>Homonota whitii</i>?
-      author: Oporto NL, <u>Sánchez KI</u>, Avila LJ, Sites Jr. JW, Morando M
+      authors: Oporto NL, <u>Sánchez KI</u>, Avila LJ, Sites Jr. JW, Morando M
       date: 2023
       description: V Reunión Argentina de Biología Evolutiva
 
     - name: Develando la diversidad del grupo de geckos neotropicales <i>Homonota horrida</i>
-      author: Millan Lugo AC, <u>Sánchez KI</u>, Avila LJ, Sites Jr. JW, Morando M
+      authors: Millan Lugo AC, <u>Sánchez KI</u>, Avila LJ, Sites Jr. JW, Morando M
       date: 2023
       description: V Reunión Argentina de Biología Evolutiva
 
     - name: Contrastando modelos de bifurcación estricta y reticulación en un grupo de lagartijas Patagónicas (clado <i>Liolaemus kingii</i>)
-      author: <u>Sánchez KI</u>, Avila LJ, Morando M
+      authors: <u>Sánchez KI</u>, Avila LJ, Morando M
       date: 2023
       description: X Congresso Brasileiro de Herpetologı́a
 
     - name: Comparación de métodos de delimitación de especies en el grupo <i>Homonota horrida</i>
-      author: Millan Lugo AC, <u>Sánchez KI</u>, Avila LJ, Sites Jr. JW, Morando M
+      authors: Millan Lugo AC, <u>Sánchez KI</u>, Avila LJ, Sites Jr. JW, Morando M
       date: 2022
       description: XXII Congreso Argentino de Herpetologı́a
 
     - name: Diversidad crı́ptica del grupo <i>Homonota whitii</i>. ¿Cuántas especies incluye?
-      author: Oporto NL, <u>Sánchez KI</u>, Avila LJ, Sites Jr. JW, Morando M
+      authors: Oporto NL, <u>Sánchez KI</u>, Avila LJ, Sites Jr. JW, Morando M
       date: 2022
       description: XXII Congreso Argentino de Herpetologı́a
 
     - name: Comparación de métodos de delimitación de especies en el grupo <i>Homonota horrida</i>
-      author: Millan Lugo AC, <u>Sánchez KI</u>, Avila LJ, Sites Jr. JW, Morando M
+      authors: Millan Lugo AC, <u>Sánchez KI</u>, Avila LJ, Sites Jr. JW, Morando M
       date: 2022
       description: XIV Reunión Argentina de Cladística y Biogeografía
       
     - name: Diversidad crı́ptica del grupo <i>Homonota whitii</i>. ¿Cuántas especies incluye?
-      author: Oporto NL, <u>Sánchez KI</u>, Avila LJ, Sites Jr. JW, Morando M
+      authors: Oporto NL, <u>Sánchez KI</u>, Avila LJ, Sites Jr. JW, Morando M
       date: 2022
       description: XIV Reunión Argentina de Cladística y Biogeografía
       
     - name: |
         La reticulación explica la compleja historia de diversificación en un clado de lagartijas patagónicas (Squamata: Liolaemini: clado <i>Liolaemus kingii</i>)
-      author: <u>Sánchez KI</u>, Avila LJ, Sites Jr. JW, Morando M
+      authors: <u>Sánchez KI</u>, Avila LJ, Sites Jr. JW, Morando M
       date: 2021
       description: XXI Congreso Argentino de Herpetologı́a
       
     - name: ¿Hay una nueva especie de gecko en Argentina? Comparación de métodos de delimitación de especies para un locus en el grupo <i>Homonota underwoodi</i>
-      author: López MA, <u>Sánchez KI</u>, Avila LJ, Sites Jr. JW, Morando M
+      authors: López MA, <u>Sánchez KI</u>, Avila LJ, Sites Jr. JW, Morando M
       date: 2021
       description: XXI Congreso Argentino de Herpetologı́a
 
     - name: |
         An integrative multi-approach workflow resolves species limits in the southernmost members of the <i>Liolaemus kingii</i> group (Squamata: Liolaemini)
-      author: <u>Sánchez KI</u>, Avila LJ, Sites Jr. JW, Morando M. 2020
+      authors: <u>Sánchez KI</u>, Avila LJ, Sites Jr. JW, Morando M. 2020
       date: 2020
       description: I Meeting of Systematics, Biogeography and Evolution (SBE)
 
     - name: Poniendo a prueba métodos de descubrimiento de especies en lagartijas del grupo <i>Liolaemus kingii</i>
-      author: <u>Sánchez KI</u>, Avila LJ, Morando M
+      authors: <u>Sánchez KI</u>, Avila LJ, Morando M
       date: 2019
       description: XX Congreso Argentino de Herpetologı́a
 
     - name: "¿Es la crisis de la replicación un problema únicamente de psicólogos? Caso de estudio: morfometrı́a geométrica"
-      author: Vrdoljak JE, <u>Sánchez KI</u>, Arreola Ramos R, Diaz Huesa EG, Villagra A, Morando M, Avila LJ
+      authors: Vrdoljak JE, <u>Sánchez KI</u>, Arreola Ramos R, Diaz Huesa EG, Villagra A, Morando M, Avila LJ
       date: 2019
       description: XXIV Reunión del Grupo Argentino de Biometrı́a
 
     - name: Evaluación empı́rica de un protocolo para el ensamblado de datos genómicos obtenidos mediante ddRADseq
-      author: <u>Sánchez KI</u>, Avila LJ, Sites Jr. JW, Leaché AD, Morando M
+      authors: <u>Sánchez KI</u>, Avila LJ, Sites Jr. JW, Leaché AD, Morando M
       date: 2019
       description: 9° Jornada de Becarixs y 1° Encuentro Patagónico de Becarixs
 
     - name: Comparación de métodos explı́citos de delimitación de especies e historia evolutiva de lagartijas del grupo <i>Liolaemus kingii</i>
-      author: <u>Sánchez KI</u>, Avila LJ, Morando M
+      authors: <u>Sánchez KI</u>, Avila LJ, Morando M
       date: 2018
       description: 8° Jornada de Becarixs CONICET-CENPAT
 
     - name: Contribuciones de la citogenética de peces neotropicales al conocimiento de los sistemas cromosómicos
-      author: Fenocchio AS, Caffetti JD, Furnus G, García E, Leveroni F, Maldonado MA, <u>Sánchez KI</u>, Pioli UO, Rau AI, Roncati HA, Pastori MC
+      authors: Fenocchio AS, Caffetti JD, Furnus G, García E, Leveroni F, Maldonado MA, <u>Sánchez KI</u>, Pioli UO, Rau AI, Roncati HA, Pastori MC
       date: 2017
       description: II Reunión Argentina de Biologı́a Evolutiva
 
     - name: |
         Citogenética comparativa en especies del género <i>Moenkhausia</i> Eigenmann, 1903 (Characiformes: Characidae)
-      author: <u>Sánchez KI</u>, Pioli UO, Takagui FH, Fenocchio AS
+      authors: <u>Sánchez KI</u>, Pioli UO, Takagui FH, Fenocchio AS
       date: 2016
       description: V Simposio Argentino de Ictiologı́a
 
     - name: Contribución al estudio citogenético de dos géneros pertenecientes a la familia Poeciliidae (Cyprinodontiformes) de afluentes del Rı́o Paraná (Misiones, Argentina)
-      author: Rau AI, Maldonado MA, Caffetti JD, <u>Sánchez KI</u>, Pastori MC
+      authors: Rau AI, Maldonado MA, Caffetti JD, <u>Sánchez KI</u>, Pastori MC
       date: 2016
       description: V Simposio Argentino de Ictiologı́a
 
     - name: |
         Caracterización citogenética de un stock cultivado de <i>Cyprinus carpio</i> L. y <i>Ctenopharyngodon idella</i> V. (Ostariophysi: Cypriniformes)
-      author: <u>Sánchez KI</u>, Rau AI, Pioli UO, Caffetti JD, Pastori MC, Fenocchio AS
+      authors: <u>Sánchez KI</u>, Rau AI, Pioli UO, Caffetti JD, Pastori MC, Fenocchio AS
       date: 2016
       description: Jornadas Regionales de Genética
 
     - name: Estudos citogeneticos de espécies exóticas cultivadas em Misiones, Argentina (<i>Cyprinus carpio</i> L. e <i>Ctenopharyngodon idella</i> V.)
-      author: <u>Sánchez KI</u>, Pioli UO, Rau AI, Caffetti JD, Fenocchio AS
+      authors: <u>Sánchez KI</u>, Pioli UO, Rau AI, Caffetti JD, Fenocchio AS
       date: 2015
       description: XVI Simpósio de Citogenética e Genética de Peixes
 
     - name: Estudios citogenéticos preliminares de peces exóticos cultivados en Misiones (<i>Cyprinus carpio</i> L. y <i>Ctenopharyngodon idella</i> V.)
-      author: <u>Sánchez KI</u>, Pioli UO, Pastori MC, Fenocchio AS
+      authors: <u>Sánchez KI</u>, Pioli UO, Pastori MC, Fenocchio AS
       date: 2015
       description: IX Jornadas Cientı́fico-Tecnológicas de la Facultad de Ciencias Exactas, Quı́micas y Naturales de la Universidad Nacional de Misiones
 

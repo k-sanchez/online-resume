@@ -18,20 +18,20 @@
       {%- for item in conference.items %}
       <div class="item">
 
-        {%- if item.name %}
+        {%- if item.title %}
         <div class="row">
-          <div class="conference-name">
+          <div class="conference-title">
             {%- if item.link %}
-            <a href="{{ item.link }}">{{ item.name }}</a>
+            <a href="{{ item.link }}">{{ item.title }}</a>
             {%- else %}
-            <span>{{ item.name }}</span>
+            <span>{{ item.title }}</span>
             {%- endif %}
           </div>
         </div>
 
         <div class="row">
-          <div class="author">
-            <span>{{ item.author }}</span>
+          <div class="authors">
+            <span>{{ item.authors }}</span>
           </div>
         </div>
 
