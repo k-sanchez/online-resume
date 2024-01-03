@@ -36,11 +36,13 @@
         </div>
 
         {%- if item.description.size > 0 %}
-        <div class="description markdown">
-          {{ item.description | markdownify }}
-        </div>
-        <div class="date">
-          <span>{{ item.date }}</span>
+        <div class="row">
+          <div class="description markdown">
+            {{ item.description | markdownify }}
+          </div>
+          <div class="date">
+            <span>{{ item.date }}</span>
+          </div>
         </div>
         {%- endif %}
         {%- endif %}
