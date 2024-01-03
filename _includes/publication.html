@@ -34,8 +34,13 @@
         {%- endif %}
 
         {%- if item.conference %}
-        <div class="conference">
-          <span>{{ item.conference }}</span>
+        <div class="row">
+          <div class="conference">
+            <span>{{ item.conference }}</span>
+          </div>
+          <div class="date">
+            <span>{{ item.date }}</span>
+          </div>
         </div>
         {%- endif %}
         {%- endif %}
