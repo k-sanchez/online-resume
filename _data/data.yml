@@ -320,9 +320,44 @@ publication:
       date: 2020
       link: https://doi.org/10.1007/978-3-030-42752-8_7
 
+funding:
+  show: true
+  order: 8
+  title: Funding
+  items:
+    - name: "LinnéSys: Systematics Research Fund"
+      funder: The Linnean Society of London and The Systematics Association
+      date: 2021-2022
+      description: |
+        Project: Cryptic diversity and evolutionary history of lizards of the <i>Liolaemus kingii</i> group
+
+    - name: Beca interna doctoral CONICET
+      funder: Consejo Nacional de Investigaciones Científicas y Técnicas
+      date: 2018 – 2024
+      description: |
+        Project: Comparación de métodos explícitos de delimitación de especies e historia evolutiva de lagartijas del grupo <i>Liolaemus kingii</i> (Liolaemini: <i>Liolaemus</i>)
+
+    - name: "Beca de iniciación en la investigación: Jóvenes estudiantes avanzados"
+      funder: Comité de Desarrollo e Innovación Tecnológica (CEDIT)
+      date: 2017 – 2018
+      description: |
+        Project: Citogenética comparativa en especies del género <i>Moenkhausia</i> Eigenmann, 1903 (Ostariophysi: Characiformes)
+          
+    - name: "Beca de iniciación en la investigación: Jóvenes estudiantes avanzados"
+      funder: Comité de Desarrollo e Innovación Tecnológica (CEDIT)
+      date: 2016 – 2017
+      description: |
+        Project: Análisis citogenético en una población de <i>Moenkhausia dichroura</i> Kner, 1858 (Ostariophysi: Characiformes) del río Paraná, provincia de Misiones, Argentina
+
+    - name: Becas SecIP para auxiliares de investigación
+      funder: Secretaría de Investigación y Posgrado de la Universidad Nacional de Misiones
+      date: 2016 – 2017
+      description: |
+        Project: Sistemas genéticos, citoembriología y citogenómica de gramíneas Sudamericanas
+
 award:
   show: false
-  order: 8
+  order: 9
   title: Awards
   description: |
     The award section in a resume is a dedicated section where you can showcase any awards you have received. This section is particularly relevant for individuals who have received awards for their work in their field, such as employees who have received performance awards or industry-specific awards. In this section, you should list the name of the award, the organization or institution that awarded it, the date it was awarded, and any other relevant details.
@@ -347,7 +382,7 @@ award:
 
 patent:
   show: false
-  order: 9
+  order: 10
   title: Patents
   description: |
     The patent section in a resume is a dedicated section where you can showcase any patents that you have been granted or are in the process of obtaining. This section is particularly relevant for individuals who work in scientific or technical fields, as well as for individuals who have developed innovative products or technologies.
@@ -371,7 +406,7 @@ patent:
 
 organization:
   show: false
-  order: 10
+  order: 11
   title: Organizations
   description: |
     The organization section in a resume, specifically for social contexts, is a section where you can showcase any relevant involvement or leadership positions in social, cultural, or community organizations. This section can highlight your commitment to social causes and your ability to work collaboratively with others towards a common goal.
@@ -382,7 +417,7 @@ organization:
 
 language:
   show: true
-  order: 11
+  order: 12
   title: Languages
   description:
   items:
@@ -395,7 +430,7 @@ language:
       
 interest:
   show: true
-  order: 12
+  order: 13
   title: Interests
   description:
   items:
@@ -407,7 +442,7 @@ interest:
     
 evaluation:
   show: true
-  order: 13
+  order: 14
   title: Self-evaluation
   description: |
     The self-evaluation section in a resume is a section where you can evaluate and assess your own skills, strengths, and weaknesses. It is typically a short paragraph or bullet points at the end of your resume, which provides a personal perspective on your abilities and how they align with the requirements of the job.
@@ -418,7 +453,7 @@ evaluation:
 
 reference:
   show: true
-  order: 14
+  order: 15
   title: References
   description:
   items:

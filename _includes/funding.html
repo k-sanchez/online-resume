@@ -1,0 +1,56 @@
+{%- assign funding = data.funding %}
+{%- if funding and funding.show %}
+<section class="funding" style="order: {{ funding.order | default: 1 }}">
+  <div class="section-title">
+    <i class="section-icon fa-solid fa-folder-open"></i>
+    <h2>{{ funding.title }}</h2>
+  </div>
+
+  <div class="section-content">
+    {%- if funding.description.size > 0 %}
+    <div class="description markdown">
+      {{ funding.description | markdownify }}
+    </div>
+    {%- endif %}
+
+    {%- if funding.items %}
+    <div class="items">
+      {%- for item in funding.items %}
+      <div class="item">
+
+        {%- if item.name %}
+        <div class="row">
+          <div class="funding-name">
+            {%- if item.link %}
+            <a href="{{ item.link }}" target="_blank">{{ item.name }}</a>
+            {%- else %}
+            <span>{{ item.name }}</span>
+            {%- endif %}
+            {%- if item.tags %}
+            <small>[{{ item.tags }}]</small>
+            {%- endif %}
+          </div>
+          
+          <div class="row">
+            <div class="funder">
+              <span>{{ item.funder }}</span>
+            </div>
+            <div class="date">
+              <span>{{ item.date }}</span>
+            </div>
+          </div>
+
+        {%- if item.description.size > 0 %}
+        <div class="description markdown">
+          {{ item.description | markdownify }}
+        </div>
+        {%- endif %}
+        {%- endif %}
+
+      </div>
+      {%- endfor %}
+    </div>
+    {%- endif %}
+  </div>
+</section>
+{%- endif %}
