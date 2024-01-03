@@ -21,16 +21,7 @@
         {%- if item.name %}
         <div class="row">
           <div class="hrtraining-name">
-            {%- if item.tags %}
-            <small>[{{ item.tags }}]</small>
-            {%- endif %}
           </div>
-
-          {%- if item.date %}
-          <div class="date">
-            <span>{{ item.date }}</span>
-          </div>
-          {%- endif %}
         </div>
 
         {%- if item.description.size > 0 %}
