@@ -347,3 +347,8 @@ small {
     margin: $spacing-unit 0;
   }
 }
+
+// Custom formatting (KS)
+.publication-date {
+  display: inline-block; // or use display: inline; depending on your layout preferences
+}
