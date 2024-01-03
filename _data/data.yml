@@ -454,15 +454,13 @@ hrtraining:
   items:
     - name: Undergraduate thesis advisor
       # tags: 
-      date: 2022 - 2023
       description: |
-        + Mariana A. López. Delimitación de especies en un grupo de Geckos patagónicos (<i>Homonota</i>: grupo <i>H. underwoodi</i>). Universidad Nacional de la Patagonia “San Juan Bosco”
+        + López MA. Delimitación de especies en un grupo de Geckos patagónicos (<i>Homonota</i>: grupo <i>H. underwoodi</i>). Universidad Nacional de la Patagonia “San Juan Bosco”. 2022 - 2023
     - name: Internships
-      date: 2022 - 2023
       description: |
-        + Millán Lugo AC. Revelando diversidad críptica en el grupo de geckos <i>Homonota horrida</i>: resultados de secuencias de un marcador mitocondrial. Instituto Patagónico para el Estudio de los Ecosistemas Continentales (IPEEC-CONICET). 2021 - 2023
-        + Oporto NL. Desentrañando la diversidad oculta en <i>Homonota whitti</i>: Estudio de linajes crípticos basado en un marcador mitocondrial. Instituto Patagónico para el Estudio de los Ecosistemas Continentales (IPEEC-CONICET). 2020 - 2022
-        + López MA. Delimitación de especies en un grupo de Geckos patagónicos (<i>Homonota</i>: grupo <i>H. underwoodi</i>). Instituto Patagónico para el Estudio de los Ecosistemas Continentales (IPEEC-CONICET). 2020 - 2022
+        + Millán Lugo AC. <i>Revelando diversidad críptica en el grupo de geckos</i> Homonota horrida<i>: resultados de secuencias de un marcador mitocondrial</i>. Instituto Patagónico para el Estudio de los Ecosistemas Continentales (IPEEC-CONICET). 2021 - 2023
+        + Oporto NL. <i>Desentrañando la diversidad oculta en</i> Homonota whitti<i>: Estudio de linajes crípticos basado en un marcador mitocondrial</i>. Instituto Patagónico para el Estudio de los Ecosistemas Continentales (IPEEC-CONICET). 2020 - 2022
+        + López MA. <i>Delimitación de especies en un grupo de Geckos patagónicos (</i>Homonota<i>: grupo </i>H. underwoodi<i>)</i>. Instituto Patagónico para el Estudio de los Ecosistemas Continentales (IPEEC-CONICET). 2020 - 2022
 
 
 skill:
