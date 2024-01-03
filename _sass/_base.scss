@@ -349,7 +349,6 @@ small {
 }
 
 // Custom formatting (KS)
-.publication-conference {
-  display: flex;
-  justify-content: space-between;
+.publication-date {
+  flex-shrink: 0;
   }
