@@ -396,7 +396,7 @@ funding:
       project: |
         Sistemas genéticos, citoembriología y citogenómica de gramíneas Sudamericanas
         
-        
+
 certificate:
   show: true
   order: 7
@@ -445,6 +445,24 @@ certificate:
     - name: Fundamentos de R
       issuer: Universidad Nacional de la Patagonia “San Juan Bosco”
       date: 2018
+
+
+hrtraining:
+  show: true
+  order: 8
+  title: HR training
+  items:
+    - name: Undergraduate thesis advisor
+      # tags: 
+      date: 2022 - 2023
+      description: |
+        + Mariana A. López. Delimitación de especies en un grupo de Geckos patagónicos (Homonota: grupo H. underwoodi). Universidad Nacional de la Patagonia “San Juan Bosco”
+    - name: Internships
+      date: 2022 - 2023
+      description: |
+        + Millán Lugo AC. Revelando diversidad críptica en el grupo de geckos Homonota horrida: resultados de secuencias de un marcador mitocondrial. Instituto Patagónico para el Estudio de los Ecosistemas Continentales (IPEEC-CONICET). 2021 - 2023
+        + Oporto NL. Desentrañando la diversidad oculta en Homonota whitti: Estudio de linajes crípticos basado en un marcador mitocondrial. Instituto Patagónico para el Estudio de los Ecosistemas Continentales (IPEEC-CONICET). 2020 - 2022
+        + López MA. Delimitación de especies en un grupo de Geckos patagónicos (Homonota: grupo H. underwoodi). Instituto Patagónico para el Estudio de los Ecosistemas Continentales (IPEEC-CONICET). 2020 - 2022
 
 
 skill:
