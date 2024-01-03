@@ -213,6 +213,11 @@ certificate:
   title: Certificates
   description:
   items:
+    - name: Filogeografía
+      issuer: Universidad de la República
+      date: 2022
+      link:
+      description:
     - name: Programación en Python
       issuer: Universidad Nacional de San Martín
       date: 2021
@@ -255,24 +260,55 @@ publication:
   show: true
   order: 7
   title: Publications
-  description: |
-    The publication section in a resume is a dedicated section where you can showcase any publications that you have authored or contributed to. This section is particularly relevant for individuals in academic or research fields, but can also be relevant for individuals in other fields who have published articles or papers.
-
-    Publications can include academic journal articles, conference papers, book chapters, reports, or other written works. In this section, you should list the title of the publication, the names of any co-authors, the name of the publication or conference, the date of publication, and any other relevant details.
-
-    If you have a long list of publications, you may want to consider including only the most relevant or significant publications on your resume. Alternatively, you could create a separate publication list and provide it as a separate document, either in your application materials or upon request.
-
-    Including a publication section in your resume can help demonstrate your expertise and credibility in your field, and can help you stand out from other candidates. However, if you do not have any publications to list, it is not necessary to include this section in your resume.
-
+  description:
   items:
-    - title: Example Publication in Action
-      authors: Foo Bar
-      conference: Foobar, 2019
+    - title: |
+        Tracing evolutionary trajectories in the presence of gene flow in South American temperate lizards (Squamata: <i>Liolaemus kingii</i> group)
+      authors: <u>Sánchez KI</u>, Recknagel H, Elmer KR, Avila LJ, Morando M
+      conference: Evolution (in review)
       link: '#'
-    - title: The Art of Example Publication
-      authors: Foo Bar
-      conference: Foobar, 2019
-      link:
+
+    - title: |
+        Complex patterns of diversification in the gray zone of speciation: Model-based approaches applied to Patagonian liolaemid lizards (Squamata: <i>Liolaemus kingii</i> clade)
+      authors: <u>Sánchez KI</u>, Diaz Huesa EG, Breitman MF, Avila LJ, Sites Jr. JW, Morando M
+      conference: Systematic Biology. syad019
+      link: https://doi.org/10.1093/sysbio/syad019
+
+    - title: |
+        A new lizard species of the <i>Liolaemus kingii</i> group (Squamata: Liolaemidae) from northwestern Chubut province (Argentina)
+      authors: <u>Sánchez KI</u>, Morando M, Avila LJ
+      conference: Zootaxa. 5264, 235-255
+      link: https://doi.org/10.11646/zootaxa.5264.2.5
+
+    - title: Phenotypic and geographic variation in two co-distributed Patagonian lizard clades (Squamata, Liolaemini)
+      authors: González Marín A, <u>Sánchez KI</u>, Morando M, Avila LJ
+      conference: South American Journal of Herpetology. 25, 18–27
+      link: https://bioone.org/journals/south-american-journal-of-herpetology/volume-25/issue-1/SAJH-D-20-00059.1/Phenotypic-and-Geographic-Variation-in-Two-Co-Distributed-Patagonian-Lizard/10.2994/SAJH-D-20-00059.1.short
+
+    - title: |
+        Cytogenetic analyses in three species of <i>Moenkhausia</i> Eigenmann, 1903 (Characiformes, Characidae) from Upper Paraná River (Misiones, Argentina)
+      authors: <u>Sánchez KI</u>, Takagui FH, Fenocchio AS
+      conference: Caryologia. 74 (4), 3–10
+      link: https://riviste.fupress.net/index.php/caryologia/article/view/1064
+
+    - title: |
+        An integrative approach to address species limits in the southernmost members of the <i>Liolaemus kingii</i> group (Squamata: Liolaemini)
+      authors: <u>Sánchez KI</u>, Avila LJ, Sites Jr. JW, Morando M
+      conference: Molecular Phylogenetics and Evolution. 157, 107046
+      link: https://doi.org/10.1016/j.ympev.2020.107046
+
+    - title: |
+        Testing repeatability, measurement error and species differentiation when using geometric morphometrics on complex shapes: a case study of Patagonian lizards of the genus <i>Liolaemus</i> (Squamata: Liolaemini)
+      authors: Vrdoljak J, <i>Sánchez KI</i>, Arreola-Ramos R, Diaz Huesa EG, Villagra A, Avila LJ, Morando M
+      conference: Biological Journal of the Linnean Society. 130, 800–812
+      link: https://doi.org/10.1093/biolinnean/blaa079
+
+    - title: |
+        Testing repeatability, measurement error and species differentiation when using geometric morphometrics on complex shapes: a case study of Patagonian lizards of the genus <i>Liolaemus</i> (Squamata: Liolaemini)
+      authors: Avila LJ, González Marín A, Troncoso-Palacios J, <i>Sánchez KI</i>, Pérez CHF, Morando M
+      conference: |
+        Naming the diversity: Taxonomy of current species of Patagonian lizards, in: Morando, M., Avila, L.J. (Eds.), Lizards of Patagonia. Series: Natural and Social Sciences of Patagonia. Springer International Publishing, Cham, pp. 123–188
+      link: https://doi.org/10.1007/978-3-030-42752-8_7
 
 award:
   show: true
