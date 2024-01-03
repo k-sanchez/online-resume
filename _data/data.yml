@@ -100,7 +100,8 @@ education:
       major: Biological Sciences
       degree: PhD
       description: |
-        Thesis: Comparación de Métodos Explícitos de Delimitación de Especies e Historia Evolutiva de Lagartijas del Grupo <i>Liolaemus kingii</i> (Liolaemini: <i>Liolaemus</i>) 
+        Thesis: Comparación de métodos explícitos de delimitación de especies e historia evolutiva de lagartijas del grupo <i>Liolaemus kingii</i> (Liolaemini: <i>Liolaemus</i>)<br>
+        Advisors: Mariana Morando, Luciano J. Avila
       
     - institution: Universidad Nacional de Misiones
       link: "https://registrograduados.siu.edu.ar/consulta.php?ah=st65957013dd1264.79928355&ai=registro_dngu||92000001&tcm=popup&cGFyYW1ldHJv=eyJpZF9yZW1pdG8iOiIzMTEwMDciLCJ0aXBvX3lfZG9jdW1lbnRvIjoiRG9jdW1lbnRvIE5hY2lvbmFsIGRlIElkZW50aWRhZCAzNDg5NzAxNSIsImRvY3VtZW50byI6IjM0ODk3MDE1Iiwibm9tYnJlX2FwZWxsaWRvIjoiU0FOQ0hFWiwgS0VWSU4gSU1BTk9MIiwiYXBlbGxpZG8iOiJTQU5DSEVaIiwibm9tYnJlIjoiS0VWSU4gSU1BTk9MIiwiZmVjaGFfZWdyZXNvIjoiMjAxNy0wOC0yNCIsIm5hY2lvbmFsaWRhZCI6IkFSR0VOVElOTyIsImluc3RpdHVjaW9uIjoiVW5pdmVyc2lkYWQgTmFjaW9uYWwgZGUgTWlzaW9uZXMiLCJ0aXR1bG8iOiJMaWNlbmNpYWRvIGVuIEdlblx1MDBlOXRpY2EiLCJpZF90aXBvX2RvY3VtZW50byI6IkROSSIsInNpc3RlbWEiOiJzaWNlciIsImJsb2NrY2hhaW4iOiJibG9ja2NoYWluX2xvZ29fY29sb3IucG5nIn0%3D&tm=1"
@@ -108,7 +109,8 @@ education:
       major: Genetics
       degree: Bachelor/Licenciatura
       description: |
-        Thesis: 
+        Thesis:<br>
+        Advisor: Alberto S. Fenocchio
 
 
 publication:
@@ -180,7 +182,7 @@ conference:
   show: true
   order: 4
   title: Conference presentations
-  description:
+  # description:
   items:
     - title: "Review of the present status of Leiosaurae: taxonomy, distribution, and conservation issues"
       authors: Avila LJ, <u>Sánchez KI</u>, Vrdoljak JE, Morando M
@@ -309,6 +311,56 @@ conference:
       description: IX Jornadas Cientı́fico-Tecnológicas de la Facultad de Ciencias Exactas, Quı́micas y Naturales de la Universidad Nacional de Misiones
 
 
+review:
+  show: true
+  order: 4
+  title: Journal reviewer
+  # description:
+  items:
+    - title: |
+        A new species of lava lizard (Iguanidae: Tropidurinae: <i>Microlophus</i>) from the Galapagos
+      journal: Zootaxa
+      date: 2023
+      
+    - title: Elevational Goldilocks zone underlies the exceptional diversity of a large lizard radiation (<i>Liolaemus</i>; Liolaemidae)
+      journal: Evolution
+      date: 2023
+      link: https://doi.org/10.1093/evolut/qpad170
+
+    - title: <i>Liolaemus gravenhorstii</i> (Gray, 1845), distribución más allá de la cuenca de Santiago, y cuestionamiento de la validez de <i>L. schroederi</i> Müller y Hellmich, 1938 
+      journal: Cuadernos de Herpetología
+      date: 2023
+
+    - title: |
+        Substrate specialisation drives an unexpectedly diverse radiation in barking geckos (<i>Ptenopus</i>: Gekkonidae) 
+      journal: Molecular Phylogenetics and Evolution
+      date: 2023
+
+    - title: The morphology of the <i>Euchiloglanis kishinouyei</i> skeleton
+      journal: Journal of Fish Biology
+      date: 2023
+
+    - title: "Diversity and biogeography of South American mud turtles elucidated by multilocus DNA sequencing (Testudines: Kinosternidae)"
+      journal: Molecular Phylogenetics and Evolution
+      date: 2023
+
+    - title: |
+        Cytogenetic analysis in <i>Tetragonopterus franciscoensis</i> (Characiformes): another piece to the karyoevolutionary puzzle of tetra fishes
+      journal: Caryologia
+      date: 2023
+      link: https://doi.org/10.36253/caryologia-2145
+
+    - title: "Phylogeographic breaks and how to find them: Separating vicariance from isolation by distance in a lizard with restricted dispersal"
+      journal: Peer Community in Evolutionary Biology
+      date: 2022
+      link: https://doi.org/10.24072/pci.evolbiol.100634
+      
+    - title: Climate warming will increase chances of hybridization and introgression between two <i>Takydromus</i> lizards (Lacertidae)
+      journal: Ecology and Evolution
+      date: 2021
+      link: https://doi.org/10.1002/ece3.7671
+       
+  
 funding:
   show: true
   order: 5
