@@ -311,7 +311,7 @@ conference:
 
 funding:
   show: true
-  order: 6
+  order: 5
   title: Funding
   items:
     - name: "LinnéSys: Systematics Research Fund"
