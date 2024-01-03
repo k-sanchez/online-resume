@@ -309,9 +309,45 @@ conference:
       description: IX Jornadas Cientı́fico-Tecnológicas de la Facultad de Ciencias Exactas, Quı́micas y Naturales de la Universidad Nacional de Misiones
 
 
+funding:
+  show: true
+  order: 6
+  title: Funding
+  items:
+    - name: "LinnéSys: Systematics Research Fund"
+      funder: The Linnean Society of London and The Systematics Association
+      date: 2021-2022
+      description: |
+        Project: Cryptic diversity and evolutionary history of lizards of the <i>Liolaemus kingii</i> group
+
+    - name: Beca interna doctoral CONICET
+      funder: Consejo Nacional de Investigaciones Científicas y Técnicas
+      date: 2018 – 2024
+      description: |
+        Project: Comparación de métodos explícitos de delimitación de especies e historia evolutiva de lagartijas del grupo <i>Liolaemus kingii</i> (Liolaemini: <i>Liolaemus</i>)
+
+    - name: "Beca de iniciación en la investigación: Jóvenes estudiantes avanzados"
+      funder: Comité de Desarrollo e Innovación Tecnológica (CEDIT)
+      date: 2017 – 2018
+      description: |
+        Project: Citogenética comparativa en especies del género <i>Moenkhausia</i> Eigenmann, 1903 (Ostariophysi: Characiformes)
+          
+    - name: "Beca de iniciación en la investigación: Jóvenes estudiantes avanzados"
+      funder: Comité de Desarrollo e Innovación Tecnológica (CEDIT)
+      date: 2016 – 2017
+      description: |
+        Project: Análisis citogenético en una población de <i>Moenkhausia dichroura</i> Kner, 1858 (Ostariophysi: Characiformes) del río Paraná, provincia de Misiones, Argentina
+
+    - name: Becas SecIP para auxiliares de investigación
+      funder: Secretaría de Investigación y Posgrado de la Universidad Nacional de Misiones
+      date: 2016 – 2017
+      description: |
+        Project: Sistemas genéticos, citoembriología y citogenómica de gramíneas Sudamericanas
+        
+        
 certificate:
   show: true
-  order: 5
+  order: 6
   title: Coursework
   description:
   items:
@@ -357,42 +393,6 @@ certificate:
     - name: Fundamentos de R
       issuer: Universidad Nacional de la Patagonia “San Juan Bosco”
       date: 2018
-
-                   
-funding:
-  show: true
-  order: 6
-  title: Funding
-  items:
-    - name: "LinnéSys: Systematics Research Fund"
-      funder: The Linnean Society of London and The Systematics Association
-      date: 2021-2022
-      description: |
-        Project: Cryptic diversity and evolutionary history of lizards of the <i>Liolaemus kingii</i> group
-
-    - name: Beca interna doctoral CONICET
-      funder: Consejo Nacional de Investigaciones Científicas y Técnicas
-      date: 2018 – 2024
-      description: |
-        Project: Comparación de métodos explícitos de delimitación de especies e historia evolutiva de lagartijas del grupo <i>Liolaemus kingii</i> (Liolaemini: <i>Liolaemus</i>)
-
-    - name: "Beca de iniciación en la investigación: Jóvenes estudiantes avanzados"
-      funder: Comité de Desarrollo e Innovación Tecnológica (CEDIT)
-      date: 2017 – 2018
-      description: |
-        Project: Citogenética comparativa en especies del género <i>Moenkhausia</i> Eigenmann, 1903 (Ostariophysi: Characiformes)
-          
-    - name: "Beca de iniciación en la investigación: Jóvenes estudiantes avanzados"
-      funder: Comité de Desarrollo e Innovación Tecnológica (CEDIT)
-      date: 2016 – 2017
-      description: |
-        Project: Análisis citogenético en una población de <i>Moenkhausia dichroura</i> Kner, 1858 (Ostariophysi: Characiformes) del río Paraná, provincia de Misiones, Argentina
-
-    - name: Becas SecIP para auxiliares de investigación
-      funder: Secretaría de Investigación y Posgrado de la Universidad Nacional de Misiones
-      date: 2016 – 2017
-      description: |
-        Project: Sistemas genéticos, citoembriología y citogenómica de gramíneas Sudamericanas
 
 
 skill:
