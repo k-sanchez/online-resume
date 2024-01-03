@@ -455,7 +455,7 @@ hrtraining:
     - name: Undergraduate thesis advisor
       # tags: 
       description: |
-        + López MA. Delimitación de especies en un grupo de Geckos patagónicos (<i>Homonota</i>: grupo <i>H. underwoodi</i>). Universidad Nacional de la Patagonia “San Juan Bosco”. 2022 - 2023
+        + López MA. <i>Delimitación de especies en un grupo de Geckos patagónicos (</i>Homonota<i>: grupo </i>H. underwoodi<i>)</i>. Universidad Nacional de la Patagonia “San Juan Bosco”. 2022 - 2023
     - name: Internships
       description: |
         + Millán Lugo AC. <i>Revelando diversidad críptica en el grupo de geckos</i> Homonota horrida<i>: resultados de secuencias de un marcador mitocondrial</i>. Instituto Patagónico para el Estudio de los Ecosistemas Continentales (IPEEC-CONICET). 2021 - 2023
