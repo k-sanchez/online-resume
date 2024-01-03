@@ -1,0 +1,54 @@
+{%- assign conference = data.conference %}
+{%- if conference and conference.show %}
+<section class="conference" style="order: {{ conference.order | default: 1 }}">
+  <div class="section-title">
+    <i class="section-icon fa-solid fa-conference"></i>
+    <h2>{{ conference.title }}</h2>
+  </div>
+
+  <div class="section-content">
+    {%- if conference.description.size > 0 %}
+    <div class="description markdown">
+      {{ conference.description | markdownify }}
+    </div>
+    {%- endif %}
+
+    {%- if conference.items %}
+    <div class="items">
+      {%- for item in conference.items %}
+      <div class="item">
+
+        {%- if item.name %}
+        <div class="row">
+          <div class="conference-name">
+            {%- if item.link %}
+            <a href="{{ item.link }}">{{ item.name }}</a>
+            {%- else %}
+            <span>{{ item.name }}</span>
+            {%- endif %}
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="author">
+            <span>{{ item.author }}</span>
+          </div>
+        </div>
+
+        {%- if item.description.size > 0 %}
+        <div class="description markdown">
+          {{ item.description | markdownify }}
+        </div>
+        <div class="date">
+          <span>{{ item.date }}</span>
+        </div>
+        {%- endif %}
+        {%- endif %}
+
+      </div>
+      {%- endfor %}
+    </div>
+    {%- endif %}
+  </div>
+</section>
+{%- endif %}
