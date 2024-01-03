@@ -33,15 +33,10 @@
         <div class="row">
           <div class="journal">
             <span>{{ item.journal }}</span>
-            <div class="date">
-              <span>{{ item.date }}</span>
-            </div>
           </div>
-        </div>
-
-        {%- if item.description.size > 0 %}
-        <div class="description markdown">
-          {{ item.description | markdownify }}
+          <div class="date">
+            <span>{{ item.date }}</span>
+          </div>
         </div>
         {%- endif %}
         {%- endif %}
