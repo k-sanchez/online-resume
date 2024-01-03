@@ -31,22 +31,22 @@
             {%- endif %}
           </div>
         </div>
-        
+          
+        <div class="row">
+          <div class="funder">
+            <span>{{ item.funder }}</span>
+          </div>
+          <div class="date">
+            <span>{{ item.date }}</span>
+          </div>
+        </div>
+
         {%- if item.project %}
         <div class="project">
           <span>{{ item.project }}</span>
         </div>
         {%- endif %}
-          
-          <div class="row">
-            <div class="funder">
-              <span>{{ item.funder }}</span>
-            </div>
-            <div class="date">
-              <span>{{ item.date }}</span>
-            </div>
-          </div>
-
+        
         {%- if item.description.size > 0 %}
         <div class="description markdown">
           {{ item.description | markdownify }}
