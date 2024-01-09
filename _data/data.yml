@@ -85,7 +85,7 @@ profile:
   order: 1
   title: Profile
   description: |
-    My main interest is the elucidation of the evolutionary history of natural populations. Specifically, I focus on species delimitation, phylogenetic relationships, and gene flow between populations/species. To achieve this I developed skills in the use of genetic, phenotypic, and environmental/geographic data given that evolutionary processes acts on multiple axes. During my PhD I worked on <i>Liolaemus</i> lizards, but I am open to explore other animal taxa as well.
+    My main interest is the elucidation of the evolutionary history of natural populations. Specifically, I focus on species delimitation, phylogenetic relationships, and gene flow between populations/species. To achieve this I developed skills in the use of genetic, phenotypic, and environmental/geographic data given that evolutionary processes acts on multiple axes. During my PhD I worked on <i>Liolaemus</i> lizards, but I am open to explore other taxa as well.
 
 
 education:
@@ -107,9 +107,9 @@ education:
       link: "https://registrograduados.siu.edu.ar/consulta.php?ah=st65957013dd1264.79928355&ai=registro_dngu||92000001&tcm=popup&cGFyYW1ldHJv=eyJpZF9yZW1pdG8iOiIzMTEwMDciLCJ0aXBvX3lfZG9jdW1lbnRvIjoiRG9jdW1lbnRvIE5hY2lvbmFsIGRlIElkZW50aWRhZCAzNDg5NzAxNSIsImRvY3VtZW50byI6IjM0ODk3MDE1Iiwibm9tYnJlX2FwZWxsaWRvIjoiU0FOQ0hFWiwgS0VWSU4gSU1BTk9MIiwiYXBlbGxpZG8iOiJTQU5DSEVaIiwibm9tYnJlIjoiS0VWSU4gSU1BTk9MIiwiZmVjaGFfZWdyZXNvIjoiMjAxNy0wOC0yNCIsIm5hY2lvbmFsaWRhZCI6IkFSR0VOVElOTyIsImluc3RpdHVjaW9uIjoiVW5pdmVyc2lkYWQgTmFjaW9uYWwgZGUgTWlzaW9uZXMiLCJ0aXR1bG8iOiJMaWNlbmNpYWRvIGVuIEdlblx1MDBlOXRpY2EiLCJpZF90aXBvX2RvY3VtZW50byI6IkROSSIsInNpc3RlbWEiOiJzaWNlciIsImJsb2NrY2hhaW4iOiJibG9ja2NoYWluX2xvZ29fY29sb3IucG5nIn0%3D&tm=1"
       date: 2010 - 2017
       major: Genetics
-      degree: Bachelor/Licenciatura
+      degree: Licenciate/Licenciatura
       description: |
-        Thesis:<br>
+        Thesis: Citogenética comparativa en especies del género <i>Moenkhausia</i> Eigenmann, 1903 (Characiformes: Characidae)<br>
         Advisor: Alberto S. Fenocchio
 
 
@@ -314,7 +314,7 @@ conference:
 review:
   show: true
   order: 5
-  title: Journal reviewer
+  title: Peer review
   # description:
   items:
     - title: |
@@ -545,28 +545,25 @@ reference:
   title: References
   description:
   items:
-    - name: Foo One
-      link: '#'
-      title: Backend Developer
-      institution: Second Company
+    - name: Mariana Morando
+      # link: '#'
+      title: Principal Investigator. Professor
+      institution: Instituto Patagónico para el estudio de los Ecosistemas Continentales (IPEEC-CONICET). Facultad de Ciencias Naturales y de la Salud, Universidad Nacional de la Patagonia San Juan Bosco
       address: 1234 Example St, XXX, XY 11111
       email: foo.one@example.com
       phone: 111-222-333
-      description: |
-        Foo One was my colleague in Second Company.
+      description:
 
-    - name: Bar Two
+    - name: Lucian Two
       link:
-      title: Professor
-      institution: Example University
+      title: Principal Investigator
+      institution: Instituto Patagónico para el estudio de los Ecosistemas Continentales (IPEEC-CONICET)
       address: 4321 Example St, YYY, XY 22222
       email: bar.two@example.com
       phone: 444-555-666
-      description: |
-        Bar Two was my advisor at Example University.
 
-############################
-############################
+####################################################################################
+####################################################################################
 
 experience:
   show: false
