@@ -1,0 +1,41 @@
+{%- assign teaching = data.teaching %}
+{%- if teaching and teaching.show %}
+<section class="teaching" style="order: {{ teaching.order | default: 1 }}">
+  <div class="section-title">
+    <i class="section-icon fa-solid fa-folder-open"></i>
+    <h2>{{ teaching.title }}</h2>
+  </div>
+
+  <div class="section-content">
+    {%- if teaching.description.size > 0 %}
+    <div class="description markdown">
+      {{ teaching.description | markdownify }}
+    </div>
+    {%- endif %}
+
+    {%- if teaching.items %}
+    <div class="items">
+      {%- for item in teaching.items %}
+      <div class="item">
+
+        {%- if item.name %}
+        <div class="row">
+          <div class="teaching-name">
+            <span>{{ item.name }}</span>
+          </div>
+        </div>
+
+        {%- if item.description.size > 0 %}
+        <div class="description markdown">
+          {{ item.description | markdownify }}
+        </div>
+        {%- endif %}
+        {%- endif %}
+
+      </div>
+      {%- endfor %}
+    </div>
+    {%- endif %}
+  </div>
+</section>
+{%- endif %}

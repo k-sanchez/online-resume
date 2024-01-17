@@ -462,10 +462,22 @@ hrtraining:
         + Oporto NL. <i>Desentrañando la diversidad oculta en</i> Homonota whitti<i>: Estudio de linajes crípticos basado en un marcador mitocondrial</i>. Instituto Patagónico para el Estudio de los Ecosistemas Continentales (IPEEC-CONICET). 2020 - 2022
         + López MA. <i>Delimitación de especies en un grupo de Geckos patagónicos (</i>Homonota<i>: grupo </i>H. underwoodi<i>)</i>. Instituto Patagónico para el Estudio de los Ecosistemas Continentales (IPEEC-CONICET). 2020 - 2022
 
+teaching:
+  show: true
+  order: 9
+  title: Teaching
+  items:
+    - name: Workshops
+      # tags: 
+      description: |
+        + <i>Phylogenetic network reconstruction</i> (dictated with Melisa Olave). X Congresso Brasileiro de Herpetologia (Porto Seguro, Bahia). 2023
+    - name: Guest speaker
+      description: |
+        + <i>Un enfoque integrativo para inferir límites de especie en miembros australes del grupo</i> Liolaemus kingii <i>(Squamata: Liolaemini)</i>. Curso de Herpetología (Responsable: Luciano J. Avila). Universidad Nacional de la Patagonia San Juan Bosco. 2020
 
 skill:
   show: true
-  order: 9
+  order: 10
   title: Skills
   description:
   items:
@@ -477,6 +489,8 @@ skill:
       level: 5
     - name: Bash
       level: 3
+    - name: Cluster computing
+      level: 3     
     - name: R
       level: 4
     - name: Python
@@ -501,7 +515,7 @@ skill:
 
 society:
   show: true
-  order: 10
+  order: 11
   title: Academic society memberships
   description:
   items:
@@ -514,7 +528,7 @@ society:
 
 language:
   show: true
-  order: 11
+  order: 12
   title: Languages
   description:
   items:
@@ -528,7 +542,7 @@ language:
 
 interest:
   show: true
-  order: 12
+  order: 13
   title: Interests
   description:
   items:
@@ -540,7 +554,7 @@ interest:
     
 
 evaluation:
-  show: true
+  show: false
   order: 13
   title: Self-evaluation
   description: |
