@@ -575,18 +575,18 @@ reference:
       # link: '#'
       title: Principal Investigator. Professor
       institution: Instituto Patagónico para el estudio de los Ecosistemas Continentales (IPEEC-CONICET). Facultad de Ciencias Naturales y de la Salud, Universidad Nacional de la Patagonia San Juan Bosco
-      address: 1234 Example St, XXX, XY 11111
-      email: foo.one@example.com
-      phone: 111-222-333
-      description:
+      address: CCT CENPAT (office B14). Bv. Almte Brown 2915, Puerto Madryn, Chubut 9120
+      email: morandocnp@gmail.com
+      # phone:
+      description: PhD advisor
 
-    - name: Lucian Two
-      link:
-      title: Principal Investigator
-      institution: Instituto Patagónico para el estudio de los Ecosistemas Continentales (IPEEC-CONICET)
-      address: 4321 Example St, YYY, XY 22222
-      email: bar.two@example.com
-      phone: 444-555-666
+    - name: Melisa Olave
+      # link:
+      title: Associate Investigator. Professor
+      institution: Instituto Argentino de Zonas Áridas (IADIZA-CONICET). Universidad Nacinal de Cuyo
+      address: Av. Ruiz Leal (no number), Parque General San Martín, Mendoza, Argentina 5500 
+      email: olave.mel@gmail.com
+      description: colaborator
 
 ####################################################################################
 ####################################################################################
