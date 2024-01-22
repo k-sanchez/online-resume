@@ -85,7 +85,7 @@ profile:
   order: 1
   title: Profile
   description: |
-    My primary focus lies in elucidating the evolutionary history of natural populations, with specific attention to species delimitation, phylogenetic relationships, and gene flow between populations/species. To address these questions, I have developed skills in utilizing genetic, phenotypic, environmental, and geographic data, recognizing that evolutionary processes operate across multiple dimensions. Throughout my Ph.D., I integrated phylogeographic and systematic approaches in the study of <i>Liolaemus</i> lizards; moreover, I am open to exploring other taxa."
+    My primary focus is the elucidation of the evolutionary history of natural populations, with specific attention to species delimitation, phylogenetic relationships, and gene flow between populations/species. To address these questions, I have developed skills in utilizing genetic, phenotypic, environmental, and geographic data, recognizing that evolutionary processes operate across multiple dimensions. Throughout my Ph.D., I integrated phylogeographic and systematic approaches in the study of <i>Liolaemus</i> lizards; however, I am open to exploring other taxa."
 
 
 education:
@@ -123,7 +123,7 @@ publication:
         Tracing evolutionary trajectories in the presence of gene flow in South American temperate lizards (Squamata: <i>Liolaemus kingii</i> group)
       authors: <u>Sánchez KI</u>, Recknagel H, Elmer KR, Avila LJ, Morando M
       conference: Evolution (accepted for publication)
-      date: 2023
+      date: 2024
       # link: '#'
 
     - title: |
