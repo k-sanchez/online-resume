@@ -452,7 +452,7 @@ hrtraining:
   order: 8
   title: Human resources training
   items:
-    - name: Undergraduate thesis advisor
+    - name: Honor's thesis advisor
       # tags: 
       description: |
         + López MA. <i>Delimitación de especies en un grupo de Geckos patagónicos (</i>Homonota<i>: grupo </i>H. underwoodi<i>)</i>. Universidad Nacional de la Patagonia “San Juan Bosco”. 2022 - 2023
@@ -467,11 +467,11 @@ teaching:
   order: 9
   title: Teaching
   items:
-    - name: Workshops
+    - name: <b>Workshops</b>
       # tags: 
       description: |
         + <i>Phylogenetic network reconstruction</i> (dictated with Melisa Olave). X Congresso Brasileiro de Herpetologia (Porto Seguro, Bahia). 2023
-    - name: Guest speaker
+    - name: <b>Guest speaker</b>
       description: |
         + <i>Un enfoque integrativo para inferir límites de especie en miembros australes del grupo</i> Liolaemus kingii <i>(Squamata: Liolaemini)</i>. Curso de Herpetología (Responsible professor: Luciano J. Avila). Universidad Nacional de la Patagonia San Juan Bosco. 2020
 
@@ -488,7 +488,7 @@ skill:
     - name: Learning
       level: 5
     - name: Bash
-      level: 3
+      level: 4
     - name: Cluster computing
       level: 3     
     - name: R
