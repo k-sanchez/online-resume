@@ -452,7 +452,7 @@ hrtraining:
   order: 8
   title: Human resources training
   items:
-    - name: Honor's thesis advisor
+    - name: Honor thesis advisor
       # tags: 
       description: |
         + López MA. <i>Delimitación de especies en un grupo de Geckos patagónicos (</i>Homonota<i>: grupo </i>H. underwoodi<i>)</i>. Universidad Nacional de la Patagonia “San Juan Bosco”. 2022 - 2023
@@ -571,22 +571,22 @@ reference:
   title: References
   description:
   items:
-    - name: Mariana Morando
+    - name: Dr. Mariana Morando
       # link: '#'
       title: Principal Investigator. Professor
-      institution: Instituto Patagónico para el estudio de los Ecosistemas Continentales (IPEEC-CONICET). Facultad de Ciencias Naturales y de la Salud, Universidad Nacional de la Patagonia San Juan Bosco
+      institution: Instituto Patagónico para el estudio de los Ecosistemas Continentales (IPEEC-CONICET). Facultad de Ciencias Naturales y de la Salud, Universidad Nacional de la Patagonia “San Juan Bosco”
       address: CCT CENPAT (office B14). Bv. Almte Brown 2915, Puerto Madryn, Chubut 9120
       email: morandocnp@gmail.com
       # phone:
       description: PhD advisor
 
-    - name: Melisa Olave
+    - name: Dr. Melisa Olave
       # link:
       title: Associate Investigator. Professor
       institution: Instituto Argentino de Zonas Áridas (IADIZA-CONICET). Universidad Nacinal de Cuyo
       address: Av. Ruiz Leal (no number), Parque General San Martín, Mendoza, Argentina 5500 
       email: olave.mel@gmail.com
-      description: colaborator
+      description: Colaborator
 
 ####################################################################################
 ####################################################################################
