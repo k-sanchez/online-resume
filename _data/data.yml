@@ -122,9 +122,9 @@ publication:
     - title: |
         Tracing evolutionary trajectories in the presence of gene flow in South American temperate lizards (Squamata: <i>Liolaemus kingii</i> group)
       authors: <u>Sánchez KI</u>, Recknagel H, Elmer KR, Avila LJ, Morando M
-      conference: Evolution (accepted for publication)
+      conference: Evolution qpae009
       date: 2024
-      # link: '#'
+      link: https://doi.org/10.1093/evolut/qpae009
 
     - title: |
         Complex patterns of diversification in the gray zone of speciation: Model-based approaches applied to Patagonian liolaemid lizards (Squamata: <i>Liolaemus kingii</i> clade)
