@@ -117,7 +117,7 @@ publication:
   show: true
   order: 3
   title: Publications
-  description: * Lead author role
+  description: \* Lead author role
   items:
     - title: |
         Tracing evolutionary trajectories in the presence of gene flow in South American temperate lizards (Squamata: <i>Liolaemus kingii</i> group)*
