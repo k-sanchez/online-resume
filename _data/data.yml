@@ -117,24 +117,24 @@ publication:
   show: true
   order: 3
   title: Publications
-  description:
+  description: * Lead author role
   items:
     - title: |
-        Tracing evolutionary trajectories in the presence of gene flow in South American temperate lizards (Squamata: <i>Liolaemus kingii</i> group)
+        Tracing evolutionary trajectories in the presence of gene flow in South American temperate lizards (Squamata: <i>Liolaemus kingii</i> group)*
       authors: <u>Sánchez KI</u>, Recknagel H, Elmer KR, Avila LJ, Morando M
       conference: Evolution qpae009
       date: 2024
       link: https://doi.org/10.1093/evolut/qpae009
 
     - title: |
-        Complex patterns of diversification in the gray zone of speciation: Model-based approaches applied to Patagonian liolaemid lizards (Squamata: <i>Liolaemus kingii</i> clade)
+        Complex patterns of diversification in the gray zone of speciation: Model-based approaches applied to Patagonian liolaemid lizards (Squamata: <i>Liolaemus kingii</i> clade)*
       authors: <u>Sánchez KI</u>, Diaz Huesa EG, Breitman MF, Avila LJ, Sites Jr. JW, Morando M
       conference: Systematic Biology syad019
       date: 2023
       link: https://doi.org/10.1093/sysbio/syad019
 
     - title: |
-        A new lizard species of the <i>Liolaemus kingii</i> group (Squamata: Liolaemidae) from northwestern Chubut province (Argentina)
+        A new lizard species of the <i>Liolaemus kingii</i> group (Squamata: Liolaemidae) from northwestern Chubut province (Argentina)*
       authors: <u>Sánchez KI</u>, Morando M, Avila LJ
       conference: Zootaxa 5264, 235-255
       date: 2023
@@ -147,14 +147,14 @@ publication:
       link: https://bioone.org/journals/south-american-journal-of-herpetology/volume-25/issue-1/SAJH-D-20-00059.1/Phenotypic-and-Geographic-Variation-in-Two-Co-Distributed-Patagonian-Lizard/10.2994/SAJH-D-20-00059.1.short
 
     - title: |
-        Cytogenetic analyses in three species of <i>Moenkhausia</i> Eigenmann, 1903 (Characiformes, Characidae) from Upper Paraná River (Misiones, Argentina)
+        Cytogenetic analyses in three species of <i>Moenkhausia</i> Eigenmann, 1903 (Characiformes, Characidae) from Upper Paraná River (Misiones, Argentina)*
       authors: <u>Sánchez KI</u>, Takagui FH, Fenocchio AS
       conference: Caryologia 74 (4), 3–10
       date: 2022
       link: https://riviste.fupress.net/index.php/caryologia/article/view/1064
 
     - title: |
-        An integrative approach to address species limits in the southernmost members of the <i>Liolaemus kingii</i> group (Squamata: Liolaemini)
+        An integrative approach to address species limits in the southernmost members of the <i>Liolaemus kingii</i> group (Squamata: Liolaemini)*
       authors: <u>Sánchez KI</u>, Avila LJ, Sites Jr. JW, Morando M
       conference: Molecular Phylogenetics and Evolution 157, 107046
       date: 2021
