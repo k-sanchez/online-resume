@@ -572,8 +572,8 @@ reference:
   description:
   items:
     - name: Dr. Mariana Morando
-      # link: '#'
-      title: Principal Investigator. Professor
+      link: https://www.researchgate.net/profile/Mariana-Morando
+      title: Principal Investigator (CONICET). Professor
       institution: Instituto Patagónico para el estudio de los Ecosistemas Continentales (IPEEC-CONICET). Facultad de Ciencias Naturales y de la Salud, Universidad Nacional de la Patagonia “San Juan Bosco”
       address: CCT CENPAT (office B14). Bv. Almte Brown 2915, Puerto Madryn, Chubut 9120
       email: morandocnp@gmail.com
@@ -581,8 +581,8 @@ reference:
       description: PhD advisor
 
     - name: Dr. Melisa Olave
-      # link:
-      title: Associate Investigator. Professor
+      link: https://www.researchgate.net/profile/Melisa-Olave
+      title: Associate Investigator (CONICET). Professor
       institution: Instituto Argentino de Zonas Áridas (IADIZA-CONICET). Universidad Nacinal de Cuyo
       address: Av. Ruiz Leal (no number), Parque General San Martín, Mendoza, Argentina 5500 
       email: olave.mel@gmail.com
