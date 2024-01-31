@@ -520,7 +520,7 @@ society:
   description:
   items:
     - soc: Society of Systematic Biologists (SSB)
-      type: by application
+      type: By application
     - soc: Society for the Study of Evolution (SSE)
       type: By application
     - soc: Sociedad Argentina de Biología Evolutiva (SABE)
