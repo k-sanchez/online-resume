@@ -17,31 +17,10 @@
     <div class="items">
       {%- for item in review.items %}
       <div class="item">
-      
-        {%- if item.title %}
-        <div class="row">
-          <div class="review-title">
-            {%- if item.link %}
-            <a href="{{ item.link }}">{{ item.title }}</a>
-            {%- else %}
-            <span>{{ item.title }}</span>
-            {%- endif %}
-          </div>
-        </div>
-
-        {%- if item.journal %}
-        <div class="row">
-          <div class="journal">
-            <span>{{ item.journal }}</span>
-          </div>
-          <div class="date">
-            <span>{{ item.date }}</span>
-          </div>
-        </div>
-        
+        <span>{{ item.journal }}</span>
+        {%- if item.number %}
+        <small>[{{ item.number }}]</small>
         {%- endif %}
-        {%- endif %}
-
       </div>
       {%- endfor %}
     </div>
