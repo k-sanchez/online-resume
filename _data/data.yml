@@ -3,7 +3,7 @@ basic:
   title: Dr. en Ciencias Biológicas # job title
   avatar:
     show: true # show or hide avatar
-    path: /assets/images/profile.png # avatar file path
+    # path: /assets/images/profile.png # avatar file path
 
 
 contact:
