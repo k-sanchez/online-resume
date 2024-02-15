@@ -120,6 +120,12 @@ publication:
   description: <b>*</b> Lead author role
   items:
     - title: |
+        Evaluating the role of melanic coloration and environmental conditions on heat gain among Patagonian lizards (<i>Liolaemus fitzingerii</i> group)
+      authors: Escudero PC, <u>Sánchez KI</u>, Avila LJ
+      conference: South American Journal of Herpetology (accepted for publication)
+      date: 2024
+      # link:
+    - title: |
         Tracing evolutionary trajectories in the presence of gene flow in South American temperate lizards (Squamata: <i>Liolaemus kingii</i> group)*
       authors: <u>Sánchez KI</u>, Recknagel H, Elmer KR, Avila LJ, Morando M
       conference: Evolution qpae009
