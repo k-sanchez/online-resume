@@ -85,7 +85,7 @@ profile:
   order: 1
   title: Profile
   description: |
-    My primary focus is the elucidation of the evolutionary history of natural populations, with specific attention to species delimitation, phylogenetic relationships, and hybridization. To address these topics, I have developed skills in utilizing genetic, phenotypic, and geographic data, recognizing that evolutionary processes operate across multiple dimensions. Throughout my Ph.D., I integrated phylogeographic and systematic approaches in the study of <i>Liolaemus</i> lizards; however, I am open to exploring other taxa.
+    My primary focus is the elucidation of the evolutionary history of natural populations, with specific attention to species delimitation, phylogenetic relationships, and hybridization. To address these topics, I have developed skills in utilizing genetic, phenotypic, and ecogeographic data, recognizing that evolutionary processes operate across multiple dimensions. Throughout my Ph.D., I integrated phylogeographic and systematic approaches in the study of <i>Liolaemus</i> lizards; however, I am open to exploring other taxa.
 
 
 education:
@@ -388,12 +388,21 @@ certificate:
       date: 2022
       link:
       description:
+
     - name: Programación en Python
       issuer: Universidad Nacional de San Martín
       date: 2021
       link:
       description:
       
+    - name: Diseño experimental
+      issuer: Universidad Nacional de Córdoba
+      date: 2019
+
+    - name: Epistemología
+      issuer: Universidad Nacional de Córdoba
+      date: 2019
+
     - name: Phylogenomics
       issuer: Transmitting Science
       date: 2020
@@ -402,15 +411,19 @@ certificate:
       issuer: Universidad Nacional del Comahue
       date: 2019
 
-    - name: Sistemas de Información Geográfica (SIG) aplicados a la Ecologı́a
+    - name: Sistemas de Información Geográfica (SIG) aplicados a la ecologı́a
       issuer: Universidad Nacional de la Patagonia “San Juan Bosco”
       date: 2019
+
+    - name: Herpetología
+      issuer: Universidad Nacional de la Patagonia “San Juan Bosco”
+      date: 2018
 
     - name: Análisis de la estructura genética de poblaciones naturales
       issuer: Universidad Nacional de Córdoba
       date: 2018
 
-    - name: Diplomatura Bioestadı́stica básica aplicada, mediada con entorno R
+    - name: Diplomatura bioestadı́stica básica aplicada, mediada con entorno R
       issuer: Universidad Nacional de Córdoba
       date: 2018
 
@@ -418,7 +431,7 @@ certificate:
       issuer: Universidad Nacional de la Patagonia “San Juan Bosco”
       date: 2018
 
-    - name: Introducción a la Morfometrı́a Geométrica
+    - name: Introducción a la morfometrı́a geométrica
       issuer: Universidad Nacional de la Patagonia “San Juan Bosco”
       date: 2018
 
@@ -426,6 +439,9 @@ certificate:
       issuer: Universidad Nacional de la Patagonia “San Juan Bosco”
       date: 2018
 
+    - name: Escritura de artículos científicos y tesis
+      issuer: Universidad Tecnológica Nacional
+      date: 2017
 
 hrtraining:
   show: true
