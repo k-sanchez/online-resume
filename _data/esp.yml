@@ -485,7 +485,7 @@ skill:
       level: 5
     - name: "Programación: Bash"
       level: 4
-    - name: "Programación: Computación en clusters"
+    - name: Computación en clusters
       level: 3     
     - name: "Programación: R"
       level: 4
