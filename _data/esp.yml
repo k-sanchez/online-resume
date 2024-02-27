@@ -544,12 +544,12 @@ interest:
   items:
     - item: Lectura
       # link: '#'
-    - item: Caminata
+    - item: Caminar
     - item: Videojuegos
     - item: Guitarra
     
 reference:
-  show: true
+  show: false
   order: 14
   title: Referencias
   description:
