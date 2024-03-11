@@ -521,6 +521,8 @@ society:
       type: Mediante aplicación
     - soc: Sociedad Argentina de Biología Evolutiva (SABE)
       type: Mediante aplicación
+    - soc: The Systematics Association
+      type: Mediante aplicación
 
 language:
   show: true

@@ -523,6 +523,8 @@ society:
       type: By application
     - soc: Sociedad Argentina de Biología Evolutiva (SABE)
       type: By application
+    - soc: The Systematics Association
+      type: By application
 
 language:
   show: true
