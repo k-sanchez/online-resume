@@ -302,7 +302,7 @@ conference:
       description: V Simposio Argentino de Ictiologı́a (Corrientes, Argentina)
 
     - title: |
-        Cytogenetic characterization of a cultivated stock of <i>Cyprinus carpio</i> L. y <i>Ctenopharyngodon idella</i> V. (Ostariophysi: Cypriniformes)
+        Cytogenetic characterization of a cultivated stock of <i>Cyprinus carpio</i> L. y <i>Ctenopharyngodon idella</i> V. (Ostariophysi: Cypriniformes) [S]
       authors: <u>Sánchez KI</u>, Rau AI, Pioli UO, Caffetti JD, Pastori MC, Fenocchio AS
       date: 2016
       description: Jornadas Regionales de Genética (Corrientes, Argentina)
@@ -312,7 +312,7 @@ conference:
       date: 2015
       description: XVI Simpósio de Citogenética e Genética de Peixes  (Cuiabá, Brazil)
 
-    - title: Preliminary cytogenetic studies in exotic fishes cultivated in Misiones (<i>Cyprinus carpio</i> L. and <i>Ctenopharyngodon idella</i> V.)
+    - title: Preliminary cytogenetic studies in exotic fishes cultivated in Misiones (<i>Cyprinus carpio</i> L. and <i>Ctenopharyngodon idella</i> V.) [S]
       authors: <u>Sánchez KI</u>, Pioli UO, Pastori MC, Fenocchio AS
       date: 2015
       description: IX Jornadas Cientı́fico-Tecnológicas de la Universidad Nacional de Misiones (Posadas, Argentina)
@@ -346,7 +346,7 @@ funding:
   show: true
   order: 6
   title: Funding
-  description: Project titles translated from Spanish are indicated with [S]
+  description: <i>Project titles translated from Spanish are indicated with [S]</i>
   items:
     - name: "LinnéSys: Systematics Research Fund"
       funder: The Linnean Society of London and The Systematics Association
@@ -449,21 +449,23 @@ hrtraining:
   show: true
   order: 8
   title: Human resources training
+  description: <i>Titles translated from Spanish are indicated with [S]</i>
   items:
     - name: Honor thesis advisor
       # tags: 
       description: |
-        + López MA. <i>Delimitación de especies en un grupo de Geckos patagónicos (</i>Homonota<i>: grupo </i>H. underwoodi<i>)</i>. Universidad Nacional de la Patagonia “San Juan Bosco”. 2022 - 2023
+        + López MA. <i>Species delimitation in a group of Patagonian geckos (</i>Homonota<i>: </i>H. underwoodi<i> group)</i> [S]. Universidad Nacional de la Patagonia “San Juan Bosco”. 2022 - 2023
     - name: Internships
       description: |
-        + Millán Lugo AC. <i>Revelando diversidad críptica en el grupo de geckos</i> Homonota horrida<i>: resultados de secuencias de un marcador mitocondrial</i>. Instituto Patagónico para el Estudio de los Ecosistemas Continentales (IPEEC-CONICET). 2021 - 2023
-        + Oporto NL. <i>Desentrañando la diversidad oculta en</i> Homonota whitti<i>: Estudio de linajes crípticos basado en un marcador mitocondrial</i>. Instituto Patagónico para el Estudio de los Ecosistemas Continentales (IPEEC-CONICET). 2021 - 2023
-        + López MA. <i>Delimitación de especies en un grupo de Geckos patagónicos (</i>Homonota<i>: grupo </i>H. underwoodi<i>)</i>. Instituto Patagónico para el Estudio de los Ecosistemas Continentales (IPEEC-CONICET). 2020 - 2022
+        + Millán Lugo AC. <i>Revealing cryptic diversity in the </i>Homonota horrida<i> gecko group: results of mitochondrial marker sequences</i> [S]. Instituto Patagónico para el Estudio de los Ecosistemas Continentales (IPEEC-CONICET). 2021 - 2023
+        + Oporto NL. <i>Unveiling hidden diversity in </i>Homonota whitti<i>: Study of cryptic lineages based on a mitochondrial marker</i> [S]. Instituto Patagónico para el Estudio de los Ecosistemas Continentales (IPEEC-CONICET). 2021 - 2023
+        + López MA. <i>Species delimitation in a group of Patagonian geckos (</i>Homonota<i>: </i>H. underwoodi<i> group)</i> [S]. Instituto Patagónico para el Estudio de los Ecosistemas Continentales (IPEEC-CONICET). 2020 - 2022
 
 teaching:
   show: true
   order: 9
   title: Teaching
+  description: <i>Titles translated from Spanish are indicated with [S]</i>
   items:
     - name: <b>Workshops</b>
       # tags: 
@@ -471,7 +473,7 @@ teaching:
         + <i>Phylogenetic network reconstruction</i> (dictated with Melisa Olave). X Congresso Brasileiro de Herpetologia (Porto Seguro, Bahia). 2023
     - name: <b>Guest speaker</b>
       description: |
-        + <i>Un enfoque integrativo para inferir límites de especie en miembros australes del grupo</i> Liolaemus kingii <i>(Squamata: Liolaemini)</i>. Herpetology course (Responsible professor: Luciano J. Avila). Universidad Nacional de la Patagonia San Juan Bosco. 2020
+        + <i>An integrative approach to infer species limits in southern populations of the </i>Liolaemus kingii<i> group (Squamata: Liolaemini)</i>. Herpetology course (Responsible professor: Luciano J. Avila). Universidad Nacional de la Patagonia San Juan Bosco. 2020
 
 skill:
   show: true
