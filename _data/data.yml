@@ -85,8 +85,7 @@ profile:
   order: 1
   title: Profile
   description: |
-    My primary focus is the elucidation of the evolutionary history of natural populations, with specific attention to species delimitation, phylogenetic relationships, and inter-population gene flow. To address these topics, I have developed skills in utilizing genetic, phenotypic, and ecogeographic data, recognizing that evolutionary processes operate across multiple dimensions. Throughout my Ph.D., I integrated phylogeographic and systematic approaches in the study of <i>Liolaemus</i> lizards; however, I am open to exploring other taxa.
-
+    My interest is the elucidation of the evolutionary history of natural populations, with a focus in species delimitation, phylogenetic relationships, and population genomics. To address these topics, I use model-based analytical methods that integrate genetic, phenotypic, and ecogeographic data, recognizing that evolutionary processes operate across multiple dimensions. Throughout my Ph.D., I integrated phylogeographic and systematic approaches in the study of Patagonian <i>Liolaemus</i> lizards. While I mostly study reptiles, I am eager to work on a diversity of model systems to answer fundamental questions in evolution.
 
 education:
   show: true
@@ -190,7 +189,7 @@ conference:
   show: true
   order: 4
   title: Conference presentations
-  # description:
+  description: Presentation titles translated from Spanish and Portuguese are indicated with [S] and [P], respectively.
   items:
     - title: "Review of the present status of Leiosaurae: taxonomy, distribution, and conservation issues"
       authors: Avila LJ, <u>Sánchez KI</u>, Vrdoljak JE, Morando M
@@ -203,59 +202,59 @@ conference:
       date: 2023
       description: "Camp’23: Celebrating 100 years of Charles L. Camp’s Classification of the Lizards (New York, EEUU)"
 
-    - title: Detectando al flujo génico en la era genómica
+    - title: Detecting gene flow in the genomic era [S]
       authors: <u>Sánchez KI</u>, Morando M
       date: 2023
       description: V Reunión Argentina de Biología Evolutiva (La Plata, Argentina)
 
-    - title: "Navegando el paisaje de la biodiversidad: un flujo de trabajo taxonómico en el marco de la metáfora del mapa y el territorio"
+    - title: "Navigating the biodiversity landscape: a taxonomic workflow within the metaphor of map and territory [S]"
       authors: Vrdoljak J, <u>Sánchez KI</u>, Avila LJ, Morando M
       date: 2023
       description: V Reunión Argentina de Biología Evolutiva (La Plata, Argentina)
 
     - title: |
-        Enigma críptico: ¿cuántas especies incluye <i>Homonota whitii</i>?
+        Cryptic enigma: How many species does <i>Homonota whitii</i> include? [S]
       authors: Oporto NL, <u>Sánchez KI</u>, Avila LJ, Sites Jr. JW, Morando M
       date: 2023
       description: V Reunión Argentina de Biología Evolutiva (La Plata, Argentina)
 
-    - title: Develando la diversidad del grupo de geckos neotropicales <i>Homonota horrida</i>
+    - title: Unveiling diversity in a neotropical gecko group <i>Homonota horrida</i> [S]
       authors: Millan Lugo AC, <u>Sánchez KI</u>, Avila LJ, Sites Jr. JW, Morando M
       date: 2023
       description: V Reunión Argentina de Biología Evolutiva (La Plata, Argentina)
 
-    - title: Contrastando modelos de bifurcación estricta y reticulación en un grupo de lagartijas Patagónicas (clado <i>Liolaemus kingii</i>)
+    - title: Contrasting models of strict bifurcation and reticulation in a Patagonian lizard group (<i>Liolaemus kingii</i> clade) [S]
       authors: <u>Sánchez KI</u>, Avila LJ, Morando M
       date: 2023
       description: X Congresso Brasileiro de Herpetologı́a (Porto Seguro, Brazil)
 
-    - title: Comparación de métodos de delimitación de especies en el grupo <i>Homonota horrida</i>
+    - title: Comparison of species delimitation methods in the <i>Homonota horrida</i> group [S]
       authors: Millan Lugo AC, <u>Sánchez KI</u>, Avila LJ, Sites Jr. JW, Morando M
       date: 2022
       description: XXII Congreso Argentino de Herpetologı́a (Santa Fe, Argentina)
 
-    - title: Diversidad crı́ptica del grupo <i>Homonota whitii</i>. ¿Cuántas especies incluye?
+    - title: Cryptic diversity in the <i>Homonota whitii</i> group. How many species does it include? [S]
       authors: Oporto NL, <u>Sánchez KI</u>, Avila LJ, Sites Jr. JW, Morando M
       date: 2022
       description: XXII Congreso Argentino de Herpetologı́a (Santa Fe, Argentina)
 
-    - title: Comparación de métodos de delimitación de especies en el grupo <i>Homonota horrida</i>
+    - title: Comparison of species delimitation methods in the <i>Homonota horrida</i> group [S]
       authors: Millan Lugo AC, <u>Sánchez KI</u>, Avila LJ, Sites Jr. JW, Morando M
       date: 2022
       description: XIV Reunión Argentina de Cladística y Biogeografía (Trelew, Argentina)
       
-    - title: Diversidad crı́ptica del grupo <i>Homonota whitii</i>. ¿Cuántas especies incluye?
+    - title: Cryptic diversity in the <i>Homonota whitii</i> group. How many species does it include? [S]
       authors: Oporto NL, <u>Sánchez KI</u>, Avila LJ, Sites Jr. JW, Morando M
       date: 2022
       description: XIV Reunión Argentina de Cladística y Biogeografía (Santa Fe, Argentina)
       
     - title: |
-        La reticulación explica la compleja historia de diversificación en un clado de lagartijas patagónicas (Squamata: Liolaemini: clado <i>Liolaemus kingii</i>)
+        Reticulation explains the complex diversification history of a clade of Patagonian lizards (Squamata: Liolaemini: <i>Liolaemus kingii</i> clade) [S]
       authors: <u>Sánchez KI</u>, Avila LJ, Sites Jr. JW, Morando M
       date: 2021
       description: XXI Congreso Argentino de Herpetologı́a (online event)
       
-    - title: ¿Hay una nueva especie de gecko en Argentina? Comparación de métodos de delimitación de especies para un locus en el grupo <i>Homonota underwoodi</i>
+    - title: Is there a new gecko species in Argentina? Comparison of single-locus species delimitation methods in <i>Homonota underwoodi</i> [S] 
       authors: López MA, <u>Sánchez KI</u>, Avila LJ, Sites Jr. JW, Morando M
       date: 2021
       description: XXI Congreso Argentino de Herpetologı́a (online event)
@@ -266,54 +265,54 @@ conference:
       date: 2020
       description: I Meeting of Systematics, Biogeography and Evolution (online event)
 
-    - title: Poniendo a prueba métodos de descubrimiento de especies en lagartijas del grupo <i>Liolaemus kingii</i>
+    - title: Testing species discovery methods on lizards of the  <i>Liolaemus kingii</i> group [S]
       authors: <u>Sánchez KI</u>, Avila LJ, Morando M
       date: 2019
       description: XX Congreso Argentino de Herpetologı́a (San Juan, Argentina)
 
-    - title: "¿Es la crisis de la replicación un problema únicamente de psicólogos? Caso de estudio: morfometrı́a geométrica"
+    - title: "Is the replication crisis solely a problem for psychologists? Study case: geometric morfometrics [S]"
       authors: Vrdoljak JE, <u>Sánchez KI</u>, Arreola Ramos R, Diaz Huesa EG, Villagra A, Morando M, Avila LJ
       date: 2019
       description: XXIV Reunión del Grupo Argentino de Biometrı́a (Mendoza, Argentina)
 
-    - title: Evaluación empı́rica de un protocolo para el ensamblado de datos genómicos obtenidos mediante ddRADseq
+    - title: Empirical evaluation of a protocol for genomic data assembly obtained through ddRADseq [S]
       authors: <u>Sánchez KI</u>, Avila LJ, Sites Jr. JW, Leaché AD, Morando M
       date: 2019
       description: 9° Jornada de Becarixs y 1° Encuentro Patagónico de Becarixs (Puerto Madryn, Argentina)
 
-    - title: Comparación de métodos explı́citos de delimitación de especies e historia evolutiva de lagartijas del grupo <i>Liolaemus kingii</i>
+    - title: Comparison of explicit species delimitation methods and evolutionary history of lizards of the <i>Liolaemus kingii</i> group [S]
       authors: <u>Sánchez KI</u>, Avila LJ, Morando M
       date: 2018
       description: 8° Jornada de Becarixs CONICET-CENPAT (Puerto Madryn, Argentina)
 
-    - title: Contribuciones de la citogenética de peces neotropicales al conocimiento de los sistemas cromosómicos
+    - title: Contributions of Neotropical fish cytogenetics to understanding chromosomal systems [S]
       authors: Fenocchio AS, Caffetti JD, Furnus G, García E, Leveroni F, Maldonado MA, <u>Sánchez KI</u>, Pioli UO, Rau AI, Roncati HA, Pastori MC
       date: 2017
       description: II Reunión Argentina de Biologı́a Evolutiva (Corrientes, Argentina)
 
     - title: |
-        Citogenética comparativa en especies del género <i>Moenkhausia</i> Eigenmann, 1903 (Characiformes: Characidae)
+        Comparative cytogenetics in species of the genus <i>Moenkhausia</i> Eigenmann, 1903 (Characiformes: Characidae) [S]
       authors: <u>Sánchez KI</u>, Pioli UO, Takagui FH, Fenocchio AS
       date: 2017
       description: V Simposio Argentino de Ictiologı́a (Corrientes, Argentina)
 
-    - title: Contribución al estudio citogenético de dos géneros pertenecientes a la familia Poeciliidae (Cyprinodontiformes) de afluentes del Rı́o Paraná (Misiones, Argentina)
+    - title: Contribution to the cytogenetic study of two genera belonging to the family Poeciliidae (Cyprinodontiformes) from tributaries of the Paraná River (Misiones, Argentina) [S]
       authors: Rau AI, Maldonado MA, Caffetti JD, <u>Sánchez KI</u>, Pastori MC
       date: 2017
       description: V Simposio Argentino de Ictiologı́a (Corrientes, Argentina)
 
     - title: |
-        Caracterización citogenética de un stock cultivado de <i>Cyprinus carpio</i> L. y <i>Ctenopharyngodon idella</i> V. (Ostariophysi: Cypriniformes)
+        Cytogenetic characterization of a cultivated stock of <i>Cyprinus carpio</i> L. y <i>Ctenopharyngodon idella</i> V. (Ostariophysi: Cypriniformes)
       authors: <u>Sánchez KI</u>, Rau AI, Pioli UO, Caffetti JD, Pastori MC, Fenocchio AS
       date: 2016
       description: Jornadas Regionales de Genética (Corrientes, Argentina)
 
-    - title: Estudos citogeneticos de espécies exóticas cultivadas em Misiones, Argentina (<i>Cyprinus carpio</i> L. e <i>Ctenopharyngodon idella</i> V.)
+    - title: Cytogenetic studies of exotic fish species cultivated in Misiones, Argentina (<i>Cyprinus carpio</i> L. and <i>Ctenopharyngodon idella</i> V.) [P]
       authors: <u>Sánchez KI</u>, Pioli UO, Rau AI, Caffetti JD, Fenocchio AS
       date: 2015
       description: XVI Simpósio de Citogenética e Genética de Peixes  (Cuiabá, Brazil)
 
-    - title: Estudios citogenéticos preliminares de peces exóticos cultivados en Misiones (<i>Cyprinus carpio</i> L. y <i>Ctenopharyngodon idella</i> V.)
+    - title: Preliminary cytogenetic studies in exotic fishes cultivated in Misiones (<i>Cyprinus carpio</i> L. and <i>Ctenopharyngodon idella</i> V.)
       authors: <u>Sánchez KI</u>, Pioli UO, Pastori MC, Fenocchio AS
       date: 2015
       description: IX Jornadas Cientı́fico-Tecnológicas de la Universidad Nacional de Misiones (Posadas, Argentina)
@@ -347,6 +346,7 @@ funding:
   show: true
   order: 6
   title: Funding
+  description: Project titles translated from Spanish are indicated with [S]
   items:
     - name: "LinnéSys: Systematics Research Fund"
       funder: The Linnean Society of London and The Systematics Association
@@ -358,25 +358,25 @@ funding:
       funder: Consejo Nacional de Investigaciones Científicas y Técnicas
       date: 2018 – 2024
       project: |
-        Comparación de métodos explícitos de delimitación de especies e historia evolutiva de lagartijas del grupo <i>Liolaemus kingii</i> (Liolaemini: <i>Liolaemus</i>)
+        Comparison of explicit species delimitation methods and evolutionary history of lizards of the <i>Liolaemus kingii</i> group (Liolaemini: <i>Liolaemus</i>) [S]
 
     - name: "Beca de iniciación en la investigación: Jóvenes estudiantes avanzados"
       funder: Comité de Desarrollo e Innovación Tecnológica (CEDIT)
       date: 2017 – 2018
       project: |
-        Citogenética comparativa en especies del género <i>Moenkhausia</i> Eigenmann, 1903 (Ostariophysi: Characiformes)
+        Comparative cytogenetics in species of the genus <i>Moenkhausia</i> Eigenmann, 1903 (Ostariophysi: Characiformes) [S]
           
     - name: "Beca de iniciación en la investigación: Jóvenes estudiantes avanzados"
       funder: Comité de Desarrollo e Innovación Tecnológica (CEDIT)
       date: 2016 – 2017
       project: |
-        Análisis citogenético en una población de <i>Moenkhausia dichroura</i> Kner, 1858 (Ostariophysi: Characiformes) del río Paraná, provincia de Misiones, Argentina
+        Cytogenetic analysis in a population of <i>Moenkhausia dichroura</i> Kner, 1858 (Ostariophysi: Characiformes) from Paraná River, Misiones Province, Argentina [S]
 
     - name: Becas SecIP para auxiliares de investigación
       funder: Secretaría de Investigación y Posgrado de la Universidad Nacional de Misiones
       date: 2016 – 2017
       project: |
-        Sistemas genéticos, citoembriología y citogenómica de gramíneas Sudamericanas
+        Genetic systems, cytoembriology, and cytogenomics of South American grasses [S]
         
 
 certificate:
@@ -554,7 +554,7 @@ interest:
   
 
 reference:
-  show: true
+  show: false
   order: 14
   title: References
   description:
