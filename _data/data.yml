@@ -322,7 +322,7 @@ review:
   show: true
   order: 5
   title: Peer review
-  description: Number of articles in brackets
+  description: <i>Number of articles in brackets</i>
   items:
     - journal: <b>Caryologia</b>
       number: 1
