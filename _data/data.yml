@@ -118,7 +118,7 @@ publication:
   show: true
   order: 3
   title: Publications
-  description: <b>*</b> Lead author role
+  description: <i>* Lead author role </i>
   items:
     - title: |
         Evaluating the role of melanic coloration and environmental conditions on heat gain among Patagonian lizards (<i>Liolaemus fitzingerii</i> group)
@@ -189,7 +189,7 @@ conference:
   show: true
   order: 4
   title: Conference presentations
-  description: Presentation titles translated from Spanish and Portuguese are indicated with [S] and [P], respectively.
+  description: <i>Presentation titles translated from Spanish and Portuguese are indicated with [S] and [P], respectively.</i>
   items:
     - title: "Review of the present status of Leiosaurae: taxonomy, distribution, and conservation issues"
       authors: Avila LJ, <u>Sánchez KI</u>, Vrdoljak JE, Morando M
