@@ -397,7 +397,7 @@ certificate:
       issuer: Universidad Nacional de San Martín
       date: 2021
       link:
-      description:
+      description:    
       
     - name: Diseño experimental
       issuer: Universidad Nacional de Córdoba
@@ -406,10 +406,6 @@ certificate:
     - name: Epistemología
       issuer: Universidad Nacional de Córdoba
       date: 2019
-
-    - name: Phylogenomics
-      issuer: Transmitting Science
-      date: 2020
 
     - name: Herramientas de análisis en filogeografı́a
       issuer: Universidad Nacional del Comahue

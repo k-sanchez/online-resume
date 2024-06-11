@@ -396,6 +396,10 @@ certificate:
       link:
       description:
       
+    - name: Phylogenomics
+      issuer: Transmitting Science
+      date: 2020
+
     - name: Diseño experimental
       issuer: Universidad Nacional de Córdoba
       date: 2019
@@ -403,10 +407,6 @@ certificate:
     - name: Epistemología
       issuer: Universidad Nacional de Córdoba
       date: 2019
-
-    - name: Phylogenomics
-      issuer: Transmitting Science
-      date: 2020
 
     - name: Herramientas de análisis en filogeografı́a
       issuer: Universidad Nacional del Comahue
