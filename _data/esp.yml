@@ -191,6 +191,12 @@ conference:
   title: Presentaciones en reuniones científicas
   # description:
   items:
+      - title: "Conservation genomics of <i>Liolaemus</i> lizards from the end of the world"
+      authors: Battistella B, <u>Sánchez KI</u>, Morando M, Olave M
+      date: 2024
+      # link: '#'
+      description: "3rd joint congress on Evolutionary Biology (virtual talks)"
+      
     - title: "Review of the present status of Leiosaurae: taxonomy, distribution, and conservation issues"
       authors: Avila LJ, <u>Sánchez KI</u>, Vrdoljak JE, Morando M
       date: 2023
