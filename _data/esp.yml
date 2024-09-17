@@ -492,7 +492,7 @@ teaching:
         + <i>Un enfoque integrativo para inferir límites de especie en miembros australes del grupo</i> Liolaemus kingii <i>(Squamata: Liolaemini)</i>. Curso de Herpetología (profesor responsable: Luciano J. Avila). Universidad Nacional de la Patagonia San Juan Bosco. 2020
 
 skill:
-  show: false
+  show: true
   order: 10
   title: Habilidades
   description:
@@ -545,7 +545,7 @@ society:
       type: Mediante aplicación
 
 language:
-  show: false
+  show: true
   order: 12
   title: Idiomas
   description:
