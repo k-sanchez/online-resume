@@ -191,7 +191,7 @@ conference:
   title: Presentaciones en reuniones científicas
   # description:
   items:
-    - title: "Diversificatin in the gray zone of speciation: Hybridization in <i>Liolaemus</i> lizards (Squamata) and an in-depth study in the <i>L. kingii</i> group"
+    - title: "Diversification in the gray zone of speciation: Hybridization in <i>Liolaemus</i> lizards (Squamata) and an in-depth study in the <i>L. kingii</i> group"
       authors: Avila LJ, <u>Sánchez KI</u>, Morando M
       date: 2024
       # link: '#'
@@ -468,15 +468,15 @@ hrtraining:
     - name: Dirección de tesis de grado
       # tags: 
       description: |
-        + López MA. <i>Delimitación de especies en un grupo de Geckos patagónicos (</i>Homonota<i>: grupo </i>H. underwoodi<i>)</i>. Universidad Nacional de la Patagonia “San Juan Bosco”. <b>Co-director (2022 - 2023)</b>
-        + Millán Lugo AC. <i>Delimitación de especies en un grupo de Geckos patagónicos (</i>Homonota<i>: grupo</i> H. horrida<i>)</i>. Universidad Nacional de la Patagonia “San Juan Bosco”. <b>Co-advisor (2023 - )</b>
-        + Oporto NL. <i>Delimitación de especies en un grupo de Geckos patagónicos (</i>Homonota<i>: grupo</i> H. whitii<i>)</i>. Universidad Nacional de la Patagonia “San Juan Bosco”. <b>Co-advisor (2023 - )</b>       
-        + Battistella Gómez B. <i>Genómica de conservación de lagartijas Patagónicas del clado</i> Liolaemus kingii. Universidad Nacional de Cuyo. <b>Co-director (2024 - )</b>
+        + López MA. <i>Delimitación de especies en un grupo de Geckos patagónicos (</i>Homonota<i>: grupo </i>H. underwoodi<i>)</i>. Universidad Nacional de la Patagonia “San Juan Bosco”. <b>Co-asesor (2022 - 2023)</b>
+        + Millán Lugo AC. <i>Delimitación de especies en un grupo de Geckos patagónicos (</i>Homonota<i>: grupo</i> H. horrida<i>)</i>. Universidad Nacional de la Patagonia “San Juan Bosco”. <b>Co-asesor (2023 - )</b>
+        + Oporto NL. <i>Delimitación de especies en un grupo de Geckos patagónicos (</i>Homonota<i>: grupo</i> H. whitii<i>)</i>. Universidad Nacional de la Patagonia “San Juan Bosco”. <b>Co-asesor (2023 - )</b>       
+        + Battistella Gómez B. <i>Genómica de conservación de lagartijas Patagónicas del clado</i> Liolaemus kingii. Universidad Nacional de Cuyo. <b>Co-asesor (2024 - )</b>
     - name: Pasantías
       description: |
-        + Millán Lugo AC. <i>Revelando diversidad críptica en el grupo de geckos</i> Homonota horrida<i>: resultados de secuencias de un marcador mitocondrial</i>. Instituto Patagónico para el Estudio de los Ecosistemas Continentales (IPEEC-CONICET). <b>Co-director (2021 - 2023)</b>
-        + Oporto NL. <i>Desentrañando la diversidad oculta en</i> Homonota whitti<i>: Estudio de linajes crípticos basado en un marcador mitocondrial</i>. Instituto Patagónico para el Estudio de los Ecosistemas Continentales (IPEEC-CONICET). <b>Co-director (2021 - 2023)</b>
-        + López MA. <i>Delimitación de especies en un grupo de Geckos patagónicos (</i>Homonota<i>: grupo </i>H. underwoodi<i>)</i>. Instituto Patagónico para el Estudio de los Ecosistemas Continentales (IPEEC-CONICET). <b>Co-director (2020 - 2022)</b>
+        + Millán Lugo AC. <i>Revelando diversidad críptica en el grupo de geckos</i> Homonota horrida<i>: resultados de secuencias de un marcador mitocondrial</i>. Instituto Patagónico para el Estudio de los Ecosistemas Continentales (IPEEC-CONICET). <b>Co-asesor (2021 - 2023)</b>
+        + Oporto NL. <i>Desentrañando la diversidad oculta en</i> Homonota whitti<i>: Estudio de linajes crípticos basado en un marcador mitocondrial</i>. Instituto Patagónico para el Estudio de los Ecosistemas Continentales (IPEEC-CONICET). <b>Co-asesor (2021 - 2023)</b>
+        + López MA. <i>Delimitación de especies en un grupo de Geckos patagónicos (</i>Homonota<i>: grupo </i>H. underwoodi<i>)</i>. Instituto Patagónico para el Estudio de los Ecosistemas Continentales (IPEEC-CONICET). <b>Co-asesor (2020 - 2022)</b>
 
 teaching:
   show: true
@@ -486,7 +486,7 @@ teaching:
     - name: <b>Cursos/talleres</b>
       # tags: 
       description: |
-        + <i>Phylogenetic network reconstruction</i> (dictated with Melisa Olave). X Congresso Brasileiro de Herpetologia (Porto Seguro, Bahia). 2023
+        + <i>Phylogenetic network reconstruction</i> (dictado con Melisa Olave). X Congresso Brasileiro de Herpetologia (Porto Seguro, Bahia). 2023
     - name: <b>Orador invitado</b>
       description: |
         + <i>Un enfoque integrativo para inferir límites de especie en miembros australes del grupo</i> Liolaemus kingii <i>(Squamata: Liolaemini)</i>. Curso de Herpetología (profesor responsable: Luciano J. Avila). Universidad Nacional de la Patagonia San Juan Bosco. 2020
