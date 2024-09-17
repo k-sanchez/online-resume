@@ -99,7 +99,7 @@ education:
       major: Doctor en Ciencias Biológicas
       degree: PhD
       description: |
-        Thesis: Comparación de métodos explícitos de delimitación de especies e historia evolutiva de lagartijas del grupo <i>Liolaemus kingii</i> (Liolaemini: <i>Liolaemus</i>)<br>
+        Tesis: Comparación de métodos explícitos de delimitación de especies e historia evolutiva de lagartijas del grupo <i>Liolaemus kingii</i> (Liolaemini: <i>Liolaemus</i>)<br>
         Asesores: Mariana Morando, Luciano J. Avila
       
     - institution: Universidad Nacional de Misiones
@@ -108,7 +108,7 @@ education:
       major: Licenciado en Genética
       degree: Licenciatura
       description: |
-        Thesis: Citogenética comparativa en especies del género <i>Moenkhausia</i> Eigenmann, 1903 (Characiformes: Characidae)<br>
+        Tesis: Citogenética comparativa en especies del género <i>Moenkhausia</i> Eigenmann, 1903 (Characiformes: Characidae)<br>
         Asesores: Alberto S. Fenocchio
 
 
@@ -121,9 +121,9 @@ publication:
     - title: |
         Evaluating the role of melanic coloration and environmental conditions on heat gain among Patagonian lizards (<i>Liolaemus fitzingerii</i> group)
       authors: Escudero PC, <u>Sánchez KI</u>, Avila LJ
-      conference: South American Journal of Herpetology (aceptado para publicación)
+      conference: Journal of Herpetology
       date: 2024
-      # link:
+      link: https://doi.org/10.1670/23-021
     - title: |
         Tracing evolutionary trajectories in the presence of gene flow in South American temperate lizards (Squamata: <i>Liolaemus kingii</i> group)*
       authors: <u>Sánchez KI</u>, Recknagel H, Elmer KR, Avila LJ, Morando M
@@ -195,13 +195,13 @@ conference:
       authors: Avila LJ, <u>Sánchez KI</u>, Morando M
       date: 2024
       # link: '#'
-      description: "10<sup>th<sup/> World Congress of Herpetology"
+      description: "10<sup>th</sup> World Congress of Herpetology"
       
     - title: "Conservation genomics of <i>Liolaemus</i> lizards from the end of the world"
       authors: Battistella B, <u>Sánchez KI</u>, Morando M, Olave M
       date: 2024
       # link: '#'
-      description: "3rd Joint Congress on Evolutionary Biology (virtual talks)"
+      description: "3<sup>rd</sup> Joint Congress on Evolutionary Biology (virtual talks)"
       
     - title: "Review of the present status of Leiosaurae: taxonomy, distribution, and conservation issues"
       authors: Avila LJ, <u>Sánchez KI</u>, Vrdoljak JE, Morando M
@@ -469,6 +469,8 @@ hrtraining:
       # tags: 
       description: |
         + López MA. <i>Delimitación de especies en un grupo de Geckos patagónicos (</i>Homonota<i>: grupo </i>H. underwoodi<i>)</i>. Universidad Nacional de la Patagonia “San Juan Bosco”. <b>Co-director (2022 - 2023)</b>
+        + Millán Lugo AC. <i>Delimitación de especies en un grupo de Geckos patagónicos (</i>Homonota<i>: grupo</i> H. horrida<i>)</i>. Universidad Nacional de la Patagonia “San Juan Bosco”. <b>Co-advisor (2023 - )</b>
+        + Oporto NL. <i>Delimitación de especies en un grupo de Geckos patagónicos (</i>Homonota<i>: grupo</i> H. whitii<i>)</i>. Universidad Nacional de la Patagonia “San Juan Bosco”. <b>Co-advisor (2023 - )</b>       
         + Battistella Gómez B. <i>Genómica de conservación de lagartijas Patagónicas del clado</i> Liolaemus kingii. Universidad Nacional de Cuyo. <b>Co-director (2024 - )</b>
     - name: Pasantías
       description: |

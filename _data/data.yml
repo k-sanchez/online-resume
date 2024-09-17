@@ -123,9 +123,9 @@ publication:
     - title: |
         Evaluating the role of melanic coloration and environmental conditions on heat gain among Patagonian lizards (<i>Liolaemus fitzingerii</i> group)
       authors: Escudero PC, <u>Sánchez KI</u>, Avila LJ
-      conference: South American Journal of Herpetology (accepted for publication)
+      conference: Journal of Herpetology
       date: 2024
-      # link:
+      link: https://doi.org/10.1670/23-021
     - title: |
         Tracing evolutionary trajectories in the presence of gene flow in South American temperate lizards (Squamata: <i>Liolaemus kingii</i> group)*
       authors: <u>Sánchez KI</u>, Recknagel H, Elmer KR, Avila LJ, Morando M
@@ -197,12 +197,12 @@ conference:
       authors: Avila LJ, <u>Sánchez KI</u>, Morando M
       date: 2024
       # link: '#'
-      description: "10<sup>th<sup/> World Congress of Herpetology"  
+      description: "10<sup>th</sup> World Congress of Herpetology"  
     - title: "Conservation genomics of <i>Liolaemus</i> lizards from the end of the world"
       authors: Battistella B, <u>Sánchez KI</u>, Morando M, Olave M
       date: 2024
       # link: '#'
-      description: "3rd joint congress on Evolutionary Biology (virtual talks)"
+      description: "3<sup>rd</sup> joint congress on Evolutionary Biology (virtual talks)"
 
     - title: "Review of the present status of Leiosaurae: taxonomy, distribution, and conservation issues"
       authors: Avila LJ, <u>Sánchez KI</u>, Vrdoljak JE, Morando M
@@ -463,13 +463,15 @@ hrtraining:
     - name: Honor thesis advisor
       # tags: 
       description: |
-        + López MA. <i>Species delimitation in a group of Patagonian geckos (</i>Homonota<i>: </i>H. underwoodi<i> group)</i> [S]. Universidad Nacional de la Patagonia “San Juan Bosco”. 2022 - 2023
-        + Battistella Gómez B. <i>Genómica de conservación de lagartijas Patagónicas del clado</i> Liolaemus kingii. Universidad Nacional de Cuyo. <b>Co-director (2024 - )</b>
+        + López MA. <i>Species delimitation in a group of Patagonian geckos (</i>Homonota<i>: </i>H. underwoodi<i> group)</i> [S]. Universidad Nacional de la Patagonia “San Juan Bosco”. <b>Co-advisor (2022 - 2023)</b>
+        + Millán Lugo AC. <i>Species delimitation in a group of Patagonian geckos (</i>Homonota<i>:</i> H. horrida <i>group)</i> [S]. Universidad Nacional de la Patagonia “San Juan Bosco”. <b>Co-advisor (2023 - )</b>
+        + Oporto NL. <i>Species delimitation in a group of Patagonian geckos (</i>Homonota<i>:</i> H. whitii <i>group)</i> [S]. Universidad Nacional de la Patagonia “San Juan Bosco”. <b>Co-advisor (2023 - )</b>
+        + Battistella Gómez B. <i>Conservation genomics in Patagonian lizards of the</i> Liolaemus kingii <i>clade</i> [S]. Universidad Nacional de Cuyo. <b>Co-advisor (2024 - )</b>
     - name: Internships
       description: |
-        + Millán Lugo AC. <i>Revealing cryptic diversity in the </i>Homonota horrida<i> gecko group: results of mitochondrial marker sequences</i> [S]. Instituto Patagónico para el Estudio de los Ecosistemas Continentales (IPEEC-CONICET). 2021 - 2023
-        + Oporto NL. <i>Unveiling hidden diversity in </i>Homonota whitti<i>: Study of cryptic lineages based on a mitochondrial marker</i> [S]. Instituto Patagónico para el Estudio de los Ecosistemas Continentales (IPEEC-CONICET). 2021 - 2023
-        + López MA. <i>Species delimitation in a group of Patagonian geckos (</i>Homonota<i>: </i>H. underwoodi<i> group)</i> [S]. Instituto Patagónico para el Estudio de los Ecosistemas Continentales (IPEEC-CONICET). 2020 - 2022
+        + Millán Lugo AC. <i>Revealing cryptic diversity in the </i>Homonota horrida<i> gecko group: results of mitochondrial marker sequences</i> [S]. Instituto Patagónico para el Estudio de los Ecosistemas Continentales (IPEEC-CONICET). <b>Co-advisor (2021 - 2023)</b>
+        + Oporto NL. <i>Unveiling hidden diversity in </i>Homonota whitti<i>: Study of cryptic lineages based on a mitochondrial marker</i> [S]. Instituto Patagónico para el Estudio de los Ecosistemas Continentales (IPEEC-CONICET). <b>Co-advisor (2021 - 2023)</b>
+        + López MA. <i>Species delimitation in a group of Patagonian geckos (</i>Homonota<i>: </i>H. underwoodi<i> group)</i> [S]. Instituto Patagónico para el Estudio de los Ecosistemas Continentales (IPEEC-CONICET). <b>Co-advisor (2020 - 2022)</b>
 
 teaching:
   show: true
