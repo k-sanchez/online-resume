@@ -191,13 +191,13 @@ conference:
   title: Presentaciones en reuniones científicas
   # description:
   items:
-      - title: "Diversificatin in the gray zone of speciation: Hybridization in <i>Liolaemus</i> lizards (Squamata) and an in-depth study in the <i>L. kingii</i> group"
+    - title: "Diversificatin in the gray zone of speciation: Hybridization in <i>Liolaemus</i> lizards (Squamata) and an in-depth study in the <i>L. kingii</i> group"
       authors: Avila LJ, <u>Sánchez KI</u>, Morando M
       date: 2024
       # link: '#'
       description: "10<sup>th<sup/> World Congress of Herpetology"
-
-      - title: "Conservation genomics of <i>Liolaemus</i> lizards from the end of the world"
+      
+    - title: "Conservation genomics of <i>Liolaemus</i> lizards from the end of the world"
       authors: Battistella B, <u>Sánchez KI</u>, Morando M, Olave M
       date: 2024
       # link: '#'
