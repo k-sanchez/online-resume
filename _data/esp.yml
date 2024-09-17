@@ -191,11 +191,17 @@ conference:
   title: Presentaciones en reuniones científicas
   # description:
   items:
+      - title: "Diversificatin in the gray zone of speciation: Hybridization in <i>Liolaemus</i> lizards (Squamata) and an in-depth study in the <i>L. kingii</i> group"
+      authors: Avila LJ, <u>Sánchez KI</u>, Morando M
+      date: 2024
+      # link: '#'
+      description: "10<sup>th<sup/> World Congress of Herpetology"
+
       - title: "Conservation genomics of <i>Liolaemus</i> lizards from the end of the world"
       authors: Battistella B, <u>Sánchez KI</u>, Morando M, Olave M
       date: 2024
       # link: '#'
-      description: "3rd joint congress on Evolutionary Biology (virtual talks)"
+      description: "3rd Joint Congress on Evolutionary Biology (virtual talks)"
       
     - title: "Review of the present status of Leiosaurae: taxonomy, distribution, and conservation issues"
       authors: Avila LJ, <u>Sánchez KI</u>, Vrdoljak JE, Morando M
@@ -346,6 +352,10 @@ review:
       number: 1
     - journal: <b>Zootaxa</b>
       number: 1
+    - journal: <b>iScience</b>
+      number: 1
+    - journal: <b>Biological Journal of the Linnean Society</b>
+      number: 1
        
   
 funding:
@@ -459,6 +469,7 @@ hrtraining:
       # tags: 
       description: |
         + López MA. <i>Delimitación de especies en un grupo de Geckos patagónicos (</i>Homonota<i>: grupo </i>H. underwoodi<i>)</i>. Universidad Nacional de la Patagonia “San Juan Bosco”. <b>Co-director (2022 - 2023)</b>
+        + Battistella Gómez B. <i>Genómica de conservación de lagartijas Patagónicas del clado</i> Liolaemus kingii. Universidad Nacional de Cuyo. <b>Co-director (2024 - )</b>
     - name: Pasantías
       description: |
         + Millán Lugo AC. <i>Revelando diversidad críptica en el grupo de geckos</i> Homonota horrida<i>: resultados de secuencias de un marcador mitocondrial</i>. Instituto Patagónico para el Estudio de los Ecosistemas Continentales (IPEEC-CONICET). <b>Co-director (2021 - 2023)</b>
@@ -546,7 +557,7 @@ language:
       
 
 interest:
-  show: true
+  show: false
   order: 13
   title: Intereses
   description:
