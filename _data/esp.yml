@@ -67,7 +67,7 @@ contact:
   # freelancer:              # username          | https://www.freelancer.com/u/username
 
   # social media
-  twitter:                 # username          | https://twitter.com/username
+  # twitter:                 # username          | https://twitter.com/username
   # mastodon:                # username@server
   # instagram:               # username          | https://instagram.com/username
   # unsplash:                # username          | https://unsplash.com/@username
@@ -118,6 +118,12 @@ publication:
   title: Publicaciones
   description: <b>*</b> Autor principal
   items:
+    - title: |
+        A straightforward workflow to explore species diversity using the Patagonian lizards of the <i>Diplolaemus</i> genus (Iguania: Leiosauridae) as a study case, with the description of a new species
+      authors: Vrdoljak J, <u>Sánchez KI</u>, González Marín A, Morando M, Avila LJ
+      conference:  Molecular Phylogenetics and Evolution 204, 108274
+      date: 2025
+      link: https://doi.org/10.1016/j.ympev.2024.108274
     - title: |
         Evaluating the role of melanic coloration and environmental conditions on heat gain among Patagonian lizards (<i>Liolaemus fitzingerii</i> group)
       authors: Escudero PC, <u>Sánchez KI</u>, Avila LJ
@@ -365,6 +371,19 @@ funding:
   items:
     - name: "LinnéSys: Systematics Research Fund"
       funder: The Linnean Society of London y The Systematics Association
+      date: 2024
+      project: |
+        Assessing the role of hybridization in the origin of the only parthenogenetic pleurodont lizard (Squamata: <i>Liolaemidae</i>: <i>Liolaemus parthenos</i>)
+  items:
+    - name: "Lakeside fund (California Academy of Sciences)"
+      funder: Lakeside Foundation 
+      date: 2024
+      project: |
+        Evolutionary origins of the only parthenogenetic pleurodont lizard
+
+  items:
+    - name: "LinnéSys: Systematics Research Fund"
+      funder: The Linnean Society of London y The Systematics Association
       date: 2021-2022
       project: |
         Cryptic diversity and evolutionary history of lizards of the <i>Liolaemus kingii</i> group
@@ -483,7 +502,11 @@ teaching:
   order: 9
   title: Docencia
   items:
-    - name: <b>Cursos/talleres</b>
+    - name: <b>Cursos de posgrado</b>
+      # tags: 
+      description: |
+        + <i>Filogenias y Evolución Molecular. Universidad Nacional de Cuyo (Mendoza). 2024
+    - name: <b>Talleres</b>
       # tags: 
       description: |
         + <i>Phylogenetic network reconstruction</i> (dictado con Melisa Olave). X Congresso Brasileiro de Herpetologia (Porto Seguro, Bahia). 2023
