@@ -374,14 +374,19 @@ funding:
       date: 2024
       project: |
         Assessing the role of hybridization in the origin of the only parthenogenetic pleurodont lizard (Squamata: <i>Liolaemidae</i>: <i>Liolaemus parthenos</i>)
-  items:
+
+    - name: Beca posdoctoral CONICET
+      funder: Consejo Nacional de Investigaciones Científicas y Técnicas
+      date: 2024 – 2027
+      project: |
+        Diversificación en zonas áridas de Argentina: Historia evolutiva y genómica poblacional del geco más austral del mundo (Squamata: Phyllodactylidae: <i>Homonota darwinii</i>)
+        
     - name: "Lakeside fund (California Academy of Sciences)"
       funder: Lakeside Foundation 
       date: 2024
       project: |
         Evolutionary origins of the only parthenogenetic pleurodont lizard
-
-  items:
+  
     - name: "LinnéSys: Systematics Research Fund"
       funder: The Linnean Society of London y The Systematics Association
       date: 2021-2022

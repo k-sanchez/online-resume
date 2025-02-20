@@ -121,6 +121,17 @@ publication:
   description: <i>* Lead author role </i>
   items:
     - title: |
+        A new gecko (Phyllodactylidae: <i>Homonota whitii</i> group) from the Diaguita highlands, Argentina, with an updated phylogeny for the genus
+      authors: Morando M, <u>Sánchez KI</u>, Vrdoljak J, Pérez CHF, Sites Jr JW, Avila LJ
+      conference: Zoologica Scripta (in press)
+      date: 2025
+    - title: |
+        A straightforward workflow to explore species diversity using the Patagonian lizards of the <i>Diplolaemus</i> genus (Iguania: Leiosauridae) as a study case, with the description of a new species
+      authors: Vrdoljak J, <u>Sánchez KI</u>, González Marín A, Morando M, Avila LJ
+      conference:  Molecular Phylogenetics and Evolution 204, 108274
+      date: 2025
+      link: https://doi.org/10.1016/j.ympev.2024.108274
+    - title: |
         Evaluating the role of melanic coloration and environmental conditions on heat gain among Patagonian lizards (<i>Liolaemus fitzingerii</i> group)
       authors: Escudero PC, <u>Sánchez KI</u>, Avila LJ
       conference: Journal of Herpetology
@@ -198,6 +209,7 @@ conference:
       date: 2024
       # link: '#'
       description: "10<sup>th</sup> World Congress of Herpetology"  
+
     - title: "Conservation genomics of <i>Liolaemus</i> lizards from the end of the world"
       authors: Battistella B, <u>Sánchez KI</u>, Morando M, Olave M
       date: 2024
@@ -362,12 +374,30 @@ funding:
   description: <i>Project titles translated from Spanish are indicated with [S]</i>
   items:
     - name: "LinnéSys: Systematics Research Fund"
+      funder: The Linnean Society of London y The Systematics Association
+      date: 2024
+      project: |
+        Assessing the role of hybridization in the origin of the only parthenogenetic pleurodont lizard (Squamata: <i>Liolaemidae</i>: <i>Liolaemus parthenos</i>)
+
+    - name: "CONICET Posdoctoral Fellowship"
+      funder: Consejo Nacional de Investigaciones Científicas y Técnicas
+      date: 2024 – 2027
+      project: |
+        Diversification in the arid zones of Argentina: Evolutionary history and population genomics of the world's southernmost gecko (Squamata: Phyllodactylidae: <i>Homonota darwinii</i>) [S]
+        
+    - name: "Lakeside fund (California Academy of Sciences)"
+      funder: Lakeside Foundation 
+      date: 2024
+      project: |
+        Evolutionary origins of the only parthenogenetic pleurodont lizard
+        
+    - name: "LinnéSys: Systematics Research Fund"
       funder: The Linnean Society of London and The Systematics Association
       date: 2021-2022
       project: |
         Cryptic diversity and evolutionary history of lizards of the <i>Liolaemus kingii</i> group
 
-    - name: Beca interna doctoral CONICET
+    - name: "CONICET Doctoral Fellowship"
       funder: Consejo Nacional de Investigaciones Científicas y Técnicas
       date: 2018 – 2024
       project: |
@@ -479,6 +509,10 @@ teaching:
   title: Teaching
   description: <i>Titles translated from Spanish are indicated with [S]</i>
   items:
+    - name: <b>Graduate courses</b>
+      # tags: 
+      description: |
+        + <i>Phylogenies and Molecular Evolution [S]. Universidad Nacional de Cuyo (Mendoza). 2024  
     - name: <b>Workshops</b>
       # tags: 
       description: |
