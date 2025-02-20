@@ -537,7 +537,7 @@ skill:
     - name: Bash
       level: 4
     - name: Cluster computing
-      level: 3     
+      level: 4     
     - name: R
       level: 4
     - name: Python
