@@ -85,7 +85,8 @@ profile:
   order: 1
   title: Profile
   description: |
-    My interest is the elucidation of the evolutionary history of natural populations, with a focus in species delimitation, phylogenetic relationships, and population genomics. To address these topics, I use model-based analytical methods that integrate genetic, phenotypic, and ecogeographic data, recognizing that evolutionary processes operate across multiple dimensions. Throughout my Ph.D., I integrated phylogeographic and systematic approaches in the study of Patagonian <i>Liolaemus</i> lizards. While I mostly study reptiles, I am eager to work on a diversity of model systems to answer fundamental questions in evolution.
+    My research focuses on elucidating the evolutionary history of natural populations, with particular emphasis on species delimitation, phylogenetic relationships, and population genomics. I employ model-based analytical approaches that integrate genetic, phenotypic, and ecogeographic data, recognizing that evolutionary processes operate across multiple dimensions and timescales. During my PhD, I combined phylogeographic and systematic frameworks to study the diversification of Patagonian lizards of the genus <i>Liolaemus</i>, integrating genomic and phenotypic evidence to explore patterns of population divergence and connectivity, and colonization dynamics in extreme environments. Currently, in my postdoctoral research, I am expanding these approaches to study the diversification and species delimitation of southern geckos, investigating how ecological and evolutionary processes shape genetic and phenotypic diversity.
+    Although my primary research system has been reptiles, I am broadly interested in applying these integrative approaches to other biological systems to address fundamental questions in speciation and adaptation.
 
 education:
   show: true
