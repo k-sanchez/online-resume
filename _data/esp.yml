@@ -119,6 +119,12 @@ publication:
   description: <b>*</b> Autor principal
   items:
     - title: |
+        A new gecko (Phyllodactylidae: <i>Homonota whitii</i> group) from the Diaguita highlands, Argentina, with an updated phylogeny for the genus
+      authors: Morando M, <u>Sánchez KI</u>, Vrdoljak J, Pérez CHF, Sites Jr JW, Avila LJ
+      conference: Zoologica Scripta
+      date: 2025
+      link: https://doi.org/10.1111/zsc.12725
+    - title: |
         A straightforward workflow to explore species diversity using the Patagonian lizards of the <i>Diplolaemus</i> genus (Iguania: Leiosauridae) as a study case, with the description of a new species
       authors: Vrdoljak J, <u>Sánchez KI</u>, González Marín A, Morando M, Avila LJ
       conference:  Molecular Phylogenetics and Evolution 204, 108274
@@ -371,6 +377,12 @@ funding:
   order: 6
   title: Financiamiento
   items:
+    - name: "Evolutionary, Ecological, or Conservation Genomics (EECG) Research Award"
+      funder: American Genetic Association
+      date: 2025
+      project: |
+        Genomic insights into adaptation and population connectivity in the world's southernmost gecko (<i>Homonota darwinii</i> complex)
+        
     - name: "LinnéSys: Systematics Research Fund"
       funder: The Linnean Society of London y The Systematics Association
       date: 2024

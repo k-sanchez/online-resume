@@ -375,6 +375,12 @@ funding:
   title: Funding
   description: <i>Project titles translated from Spanish are indicated with [S]</i>
   items:
+    - name: "Evolutionary, Ecological, or Conservation Genomics (EECG) Research Award"
+      funder: American Genetic Association
+      date: 2025
+      project: |
+        Genomic insights into adaptation and population connectivity in the world's southernmost gecko (<i>Homonota darwinii</i> complex)
+
     - name: "LinnéSys: Systematics Research Fund"
       funder: The Linnean Society of London y The Systematics Association
       date: 2024
