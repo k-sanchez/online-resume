@@ -576,6 +576,8 @@ society:
   title: Academic society memberships
   description:
   items:
+    - soc: American Genetic Association (AGA)
+      type: By application
     - soc: Society of Systematic Biologists (SSB)
       type: By application
     - soc: Society for the Study of Evolution (SSE)

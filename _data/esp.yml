@@ -579,6 +579,9 @@ society:
   title: Membresías
   description:
   items:
+  items:
+    - soc: American Genetic Association (AGA)
+      type: Mediante aplicación
     - soc: Society of Systematic Biologists (SSB)
       type: Mediante aplicación
     - soc: Society for the Study of Evolution (SSE)
