@@ -377,6 +377,12 @@ funding:
   title: Funding
   description: <i>Project titles translated from Spanish are indicated with [S]</i>
   items:
+    - name: "Lakeside fund (California Academy of Sciences)"
+      funder: Lakeside Foundation 
+      date: 2025
+      project: |
+        Introgression and evolutionary dynamics in the <ii>Liolaemus darwinii</i> complex: Disentangling neutral and adaptive processes
+        
     - name: "Evolutionary, Ecological, or Conservation Genomics (EECG) Research Award"
       funder: American Genetic Association
       date: 2025
