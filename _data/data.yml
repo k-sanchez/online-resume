@@ -172,8 +172,8 @@ publication:
         Cytogenetic analyses in three species of <i>Moenkhausia</i> Eigenmann, 1903 (Characiformes, Characidae) from Upper Paraná River (Misiones, Argentina)*
       authors: <u>Sánchez KI</u>, Takagui FH, Fenocchio AS
       conference: Caryologia 74 (4), 3–10
-      date: 2022
-      link: https://riviste.fupress.net/index.php/caryologia/article/view/1064
+      date: 2021
+      link: https://doi.org/10.36253/caryologia-1064
 
     - title: |
         An integrative approach to address species limits in the southernmost members of the <i>Liolaemus kingii</i> group (Squamata: Liolaemini)*
@@ -621,7 +621,7 @@ interest:
   
 
 reference:
-  show: false
+  show: true
   order: 14
   title: References
   description:
@@ -633,7 +633,7 @@ reference:
       address: CCT CENPAT (office B14). Bv. Almte Brown 2915, Puerto Madryn, Chubut 9120
       email: morandocnp@gmail.com
       # phone:
-      description: PhD advisor
+      description: PhD and post-doctoral advisor
 
     - name: Dr. Melisa Olave
       link: https://www.researchgate.net/profile/Melisa-Olave
@@ -641,14 +641,14 @@ reference:
       institution: Instituto Argentino de Zonas Áridas (IADIZA-CONICET). Universidad Nacinal de Cuyo
       address: Av. Ruiz Leal (no number), Parque General San Martín, Mendoza, Argentina 5500 
       email: olave.mel@gmail.com
-      description: Collaborator
+      description: Post-doctoral advisor and collaborator
 
-    - name: Dr. Kathryn R. Elmer
-      link: http://elmerlab.blogspot.com/
-      title: Professor
-      institution: School of Biodiversity, One Health and Veterinary Medicine, College of Medical, Veterinary and Life Sciences, University of Glasgow
-      address: Garscube Campus, Bearsden Road, Glasgow, G12 8QQ, UK
-      email: Kathryn.Elmer@glasgow.ac.uk
+    - name: Dr. Edward A. Myers
+      link: https://edwardamyers.wordpress.com/
+      title: Research Scientist
+      institution: California Academy of Sciences
+      address: 55 Music Concourse Dr, San Francisco, CA 94118, USA
+      email: emyers@calacademy.org
       description: Collaborator
       
 ####################################################################################
