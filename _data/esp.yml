@@ -380,6 +380,8 @@ review:
       number: 1
     - journal: <b>Journal of Fish Biology</b>
       number: 1
+    - journal: <b>Molecular Ecology</b>
+      number: 1
     - journal: <b>Molecular Phylogenetics and Evolution</b>
       number: 2
     - journal: <b>Peer Community in Evolutionary Biology</b>
@@ -532,10 +534,10 @@ hrtraining:
     - name: Dirección de tesis de grado
       # tags: 
       description: |
-        + López MA. <i>Delimitación de especies en un grupo de Geckos patagónicos (</i>Homonota<i>: grupo </i>H. underwoodi<i>)</i>. Universidad Nacional de la Patagonia “San Juan Bosco”. <b>Co-asesor (2022 - 2023)</b>
         + Millán Lugo AC. <i>Delimitación de especies en un grupo de Geckos patagónicos (</i>Homonota<i>: grupo</i> H. horrida<i>)</i>. Universidad Nacional de la Patagonia “San Juan Bosco”. <b>Co-asesor (2023 - )</b>
         + Oporto NL. <i>Delimitación de especies en un grupo de Geckos patagónicos (</i>Homonota<i>: grupo</i> H. whitii<i>)</i>. Universidad Nacional de la Patagonia “San Juan Bosco”. <b>Co-asesor (2023 - )</b>       
         + Battistella Gómez B. <i>Genómica de conservación de lagartijas Patagónicas del clado</i> Liolaemus kingii. Universidad Nacional de Cuyo. <b>Co-asesor (2024 - )</b>
+        + López MA. <i>Delimitación de especies en un grupo de Geckos patagónicos (</i>Homonota<i>: grupo </i>H. underwoodi<i>)</i>. Universidad Nacional de la Patagonia “San Juan Bosco”. <b>Co-asesor (2022 - 2023)</b>
     - name: Pasantías
       description: |
         + Millán Lugo AC. <i>Revelando diversidad críptica en el grupo de geckos</i> Homonota horrida<i>: resultados de secuencias de un marcador mitocondrial</i>. Instituto Patagónico para el Estudio de los Ecosistemas Continentales (IPEEC-CONICET). <b>Co-asesor (2021 - 2023)</b>
@@ -557,6 +559,8 @@ teaching:
         + <i>Phylogenetic network reconstruction</i> (dictado con Melisa Olave). X Congresso Brasileiro de Herpetologia (Porto Seguro, Bahia). 2023
     - name: <b>Orador invitado</b>
       description: |
+        + <i>Genómica de poblaciones</i> (profesor responsable: Mariana Morando). Universidad Nacional de la Patagonia “San Juan Bosco”. 2024
+        + <i>Manipulación de bases de datos y estimación de relaciones filogenéticas con datos moleculares</i> (profesor responsable: Mariana Morando). Universidad Nacional de la Patagonia “San Juan Bosco”. 2025        
         + <i>Manipulación de bases de datos y estimación de relaciones filogenéticas con datos moleculares</i> (profesor responsable: Mariana Morando). Universidad Nacional de la Patagonia “San Juan Bosco”. 2024
         + <i>Un enfoque integrativo para inferir límites de especie en miembros australes del grupo</i> Liolaemus kingii <i>(Squamata: Liolaemini)</i>. Curso de Herpetología (profesor responsable: Luciano J Avila). Universidad Nacional de la Patagonia San Juan Bosco. 2020
 

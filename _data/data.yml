@@ -381,6 +381,8 @@ review:
       number: 1
     - journal: <b>Journal of Fish Biology</b>
       number: 1
+    - journal: <b>Molecular Ecology</b>
+      number: 1
     - journal: <b>Molecular Phylogenetics and Evolution</b>
       number: 2
     - journal: <b>Peer Community in Evolutionary Biology</b>
@@ -527,10 +529,10 @@ hrtraining:
     - name: Honor thesis advisor
       # tags: 
       description: |
-        + López MA. <i>Species delimitation in a group of Patagonian geckos (</i>Homonota<i>: </i>H. underwoodi<i> group)</i> [S]. Universidad Nacional de la Patagonia “San Juan Bosco”. <b>Co-advisor (2022 - 2023)</b>
         + Millán Lugo AC. <i>Species delimitation in a group of Patagonian geckos (</i>Homonota<i>:</i> H. horrida <i>group)</i> [S]. Universidad Nacional de la Patagonia “San Juan Bosco”. <b>Co-advisor (2023 - )</b>
         + Oporto NL. <i>Species delimitation in a group of Patagonian geckos (</i>Homonota<i>:</i> H. whitii <i>group)</i> [S]. Universidad Nacional de la Patagonia “San Juan Bosco”. <b>Co-advisor (2023 - )</b>
-        + Battistella Gómez B. <i>Conservation genomics in Patagonian lizards of the</i> Liolaemus kingii <i>clade</i> [S]. Universidad Nacional de Cuyo. <b>Co-advisor (2024 - )</b>
+        + Battistella Gómez B. <i>Conservation genomics in Patagonian lizards of the</i> Liolaemus kingii <i>clade</i> [S]. Universidad Nacional de Cuyo. <b>Co-advisor (2024 - 2025)</b>
+        + López MA. <i>Species delimitation in a group of Patagonian geckos (</i>Homonota<i>: </i>H. underwoodi<i> group)</i> [S]. Universidad Nacional de la Patagonia “San Juan Bosco”. <b>Co-advisor (2022 - 2023)</b>
     - name: Internships
       description: |
         + Millán Lugo AC. <i>Revealing cryptic diversity in the </i>Homonota horrida<i> gecko group: results of mitochondrial marker sequences</i> [S]. Instituto Patagónico para el Estudio de los Ecosistemas Continentales (IPEEC-CONICET). <b>Co-advisor (2021 - 2023)</b>
@@ -553,6 +555,8 @@ teaching:
         + <i>Phylogenetic network reconstruction</i> (dictated with Melisa Olave). X Congresso Brasileiro de Herpetologia (Porto Seguro, Bahia). 2023
     - name: <b>Guest speaker</b>
       description: |
+        + <i>Population genomics</i> [S]. Genetics course (responsible professor: Mariana Morando). Universidad Nacional de la Patagonia “San Juan Bosco”. 2025
+        + <i>Database manipulation and estimation of phylogenetic relationships using molecular data</i> [S]. Genetics course (responsible professor: Mariana Morando). Universidad Nacional de la Patagonia “San Juan Bosco”. 2025
         + <i>Database manipulation and estimation of phylogenetic relationships using molecular data</i> [S]. Genetics course (responsible professor: Mariana Morando). Universidad Nacional de la Patagonia “San Juan Bosco”. 2024
         + <i>An integrative approach to infer species limits in southern populations of the </i>Liolaemus kingii<i> group (Squamata: Liolaemini)</i> [S]. Herpetology course (responsible professor: Luciano J Avila). Universidad Nacional de la Patagonia “San Juan Bosco”. 2020
 
