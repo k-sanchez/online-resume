@@ -409,19 +409,19 @@ funding:
       funder: American Genetic Association
       date: 2025
       project: |
-        Genomic insights into adaptation and population connectivity in the world's southernmost gecko (<i>Homonota darwinii</i> complex)
+        Genomic insights into adaptation and population connectivity in the world's southernmost gecko (<span style="font-style: normal;">Homonota darwinii</span> complex)
         
     - name: "LinnéSys: Systematics Research Fund"
       funder: The Linnean Society of London y The Systematics Association
       date: 2024
       project: |
-        Assessing the role of hybridization in the origin of the only parthenogenetic pleurodont lizard (Squamata: <i>Liolaemidae</i>: <i>Liolaemus parthenos</i>)
+        Assessing the role of hybridization in the origin of the only parthenogenetic pleurodont lizard (Squamata: <span style="font-style: normal;">Liolaemidae</span>: <span style="font-style: normal;">Liolaemus parthenos</span>)
 
     - name: Beca posdoctoral CONICET
       funder: Consejo Nacional de Investigaciones Científicas y Técnicas
       date: 2024 – 2027
       project: |
-        Diversificación en zonas áridas de Argentina: Historia evolutiva y genómica poblacional del geco más austral del mundo (Squamata: Phyllodactylidae: <i>Homonota darwinii</i>)
+        Diversificación en zonas áridas de Argentina: Historia evolutiva y genómica poblacional del geco más austral del mundo (Squamata: Phyllodactylidae: <span style="font-style: normal;">Homonota darwinii</span>)
         
     - name: "Lakeside fund (California Academy of Sciences)"
       funder: Lakeside Foundation 
@@ -433,25 +433,25 @@ funding:
       funder: The Linnean Society of London y The Systematics Association
       date: 2021-2022
       project: |
-        Cryptic diversity and evolutionary history of lizards of the <i>Liolaemus kingii</i> group
+        Cryptic diversity and evolutionary history of lizards of the <span style="font-style: normal;">Liolaemus kingii</span> group
 
     - name: Beca interna doctoral CONICET
       funder: Consejo Nacional de Investigaciones Científicas y Técnicas
       date: 2018 – 2024
       project: |
-        Comparación de métodos explícitos de delimitación de especies e historia evolutiva de lagartijas del grupo <i>Liolaemus kingii</i> (Liolaemini: <i>Liolaemus</i>)
+        Comparación de métodos explícitos de delimitación de especies e historia evolutiva de lagartijas del grupo <span style="font-style: normal;">Liolaemus kingii</span> (Liolaemini: <span style="font-style: normal;">Liolaemus</span>)
 
     - name: "Beca de iniciación en la investigación: Jóvenes estudiantes avanzados"
       funder: Comité de Desarrollo e Innovación Tecnológica (CEDIT)
       date: 2017 – 2018
       project: |
-        Citogenética comparativa en especies del género <i>Moenkhausia</i> Eigenmann, 1903 (Ostariophysi: Characiformes)
+        Citogenética comparativa en especies del género <span style="font-style: normal;">Moenkhausia</span> Eigenmann, 1903 (Ostariophysi: Characiformes)
           
     - name: "Beca de iniciación en la investigación: Jóvenes estudiantes avanzados"
       funder: Comité de Desarrollo e Innovación Tecnológica (CEDIT)
       date: 2016 – 2017
       project: |
-        Análisis citogenético en una población de <i>Moenkhausia dichroura</i> Kner, 1858 (Ostariophysi: Characiformes) del río Paraná, provincia de Misiones, Argentina
+        Análisis citogenético en una población de <span style="font-style: normal;">Moenkhausia dichroura</span> Kner, 1858 (Ostariophysi: Characiformes) del río Paraná, provincia de Misiones, Argentina
 
     - name: Becas SecIP para auxiliares de investigación
       funder: Secretaría de Investigación y Posgrado de la Universidad Nacional de Misiones
