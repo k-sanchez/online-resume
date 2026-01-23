@@ -10,7 +10,7 @@ contact:
   # meta
   location: Puerto Madryn, Argentina # location
   email: kevin.imanol.sanchez@gmail.com # email address
-  phone: +54-376-4672956 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+  phone: +54-9-376-4672956 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
   # website: example.com # site URL without schema, like example.com, will automatically prepand "https://"
 
   # gender:                  # gender or pronoun
@@ -419,7 +419,7 @@ funding:
 
     - name: Beca posdoctoral CONICET
       funder: Consejo Nacional de Investigaciones Científicas y Técnicas
-      date: 2024 – 2027
+      date: 2024 – 2026
       project: |
         Diversificación en zonas áridas de Argentina: Historia evolutiva y genómica poblacional del geco más austral del mundo (Squamata: Phyllodactylidae: <span style="font-style: normal;">Homonota darwinii</span>)
         

@@ -1,6 +1,6 @@
 basic:
   name: Kevin I. Sánchez, PhD # name
-  title: Dr. en Ciencias Biológicas # job title
+  title: CONICET Post-doctoral fellow (2024-2026) # Dr. en Ciencias Biológicas # job title
   avatar:
     show: true # show or hide avatar
     # path: /assets/images/profile.png # avatar file path
@@ -10,7 +10,7 @@ contact:
   # meta
   location: Puerto Madryn, Argentina # location
   email: kevin.imanol.sanchez@gmail.com # email address
-  phone: +54-376-4672956 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+  phone: +54-9-376-4672956 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
   # website: example.com # site URL without schema, like example.com, will automatically prepand "https://"
 
   # gender:                  # gender or pronoun
@@ -417,7 +417,7 @@ funding:
 
     - name: "CONICET Posdoctoral Fellowship"
       funder: Consejo Nacional de Investigaciones Científicas y Técnicas
-      date: 2024 – 2027
+      date: 2024 – 2026
       project: |
         Diversification in the arid zones of Argentina: Evolutionary history and population genomics of the world's southernmost gecko (Squamata: Phyllodactylidae: <span style="font-style: normal;">Homonota darwinii</span>) [S]
         
