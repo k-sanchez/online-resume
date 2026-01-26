@@ -564,7 +564,7 @@ teaching:
     - name: <b>Cursos de posgrado</b>
       # tags: 
       description: |
-        + <i>Filogenias y Evolución Molecular. Universidad Nacional de Cuyo (Mendoza). 2024
+        + <i>Filogenias y Evolución Molecular</i>. Universidad Nacional de Cuyo (Mendoza). 2024
     - name: <b>Talleres</b>
       # tags: 
       description: |
@@ -676,7 +676,7 @@ reference:
     - name: Dr. Melisa Olave
       link: https://www.researchgate.net/profile/Melisa-Olave
       title: Investigadora adjunta (CONICET). Profesora
-      institution: Instituto Argentino de Zonas Áridas (IADIZA-CONICET). Universidad Nacinal de Cuyo
+      institution: Instituto Argentino de Zonas Áridas (IADIZA-CONICET). Universidad Nacional de Cuyo
       address: Av. Ruiz Leal (no number), Parque General San Martín, Mendoza, Argentina 5500 
       email: olave.mel@gmail.com
       description: Colaboradora

@@ -1,6 +1,6 @@
 basic:
   name: Kevin I. Sánchez, PhD # name
-  title: Dr. en Ciencias Biológicas # job title
+  title: PhD in Biological Sciences # job title
   avatar:
     show: true # show or hide avatar
     # path: /assets/images/profile.png # avatar file path
@@ -560,7 +560,7 @@ teaching:
     - name: <b>Graduate courses</b>
       # tags: 
       description: |
-        + <i>Phylogenies and Molecular Evolution [S]. Universidad Nacional de Cuyo (Mendoza). 2024  
+        + <i>Phylogenies and Molecular Evolution</i> [S]. Universidad Nacional de Cuyo (Mendoza). 2024  
     - name: <b>Workshops</b>
       # tags: 
       description: |
@@ -672,7 +672,7 @@ reference:
     - name: Dr. Melisa Olave
       link: https://www.researchgate.net/profile/Melisa-Olave
       title: Adjunct Investigator (CONICET). Professor
-      institution: Instituto Argentino de Zonas Áridas (IADIZA-CONICET). Universidad Nacinal de Cuyo
+      institution: Instituto Argentino de Zonas Áridas (IADIZA-CONICET). Universidad Nacional de Cuyo
       address: Av. Ruiz Leal (no number), Parque General San Martín, Mendoza, Argentina 5500 
       email: olave.mel@gmail.com
       description: Post-doctoral advisor and collaborator
