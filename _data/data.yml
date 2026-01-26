@@ -91,11 +91,10 @@ profile:
 experience:
   show: false
   order: 2
-  title: Professional Exp
+  title: Professional Experience
   description: ""
   items:
     - company: Instituto Patagónico para el Estudio de los Ecosistemas Continentales (IPEEC-CONICET)
-      tags: Full-time
       date: 2024.08 - 2026.04
       role: Postdoctoral fellow
       location: Puerto Madryn, Argentina
@@ -104,7 +103,7 @@ education:
   show: false
   order: 3
   title: Education
-  description:
+  description: ""
   items:
     - institution: Universidad Nacional de Córdoba
       link:
