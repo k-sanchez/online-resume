@@ -89,7 +89,7 @@ profile:
     Although my primary research system has been reptiles, I am broadly interested in applying these integrative approaches to other biological systems to address fundamental questions in speciation and adaptation.
 
 experience:
-  show: false
+  show: true
   order: 2
   title: Professional Experience
   description: ""
@@ -100,7 +100,7 @@ experience:
       location: Puerto Madryn, Argentina
 
 education:
-  show: false
+  show: true
   order: 3
   title: Education
   description: ""
@@ -127,7 +127,7 @@ education:
 
 
 publication:
-  show: false
+  show: true
   order: 4
   title: Publications
   description: <i>* Lead author role </i>
@@ -212,7 +212,7 @@ publication:
 
 
 conference:
-  show: false
+  show: true
   order: 5
   title: Conference presentations
   description: <i>Presentation titles translated from Spanish and Portuguese are indicated with [S] and [P], respectively.</i>
@@ -375,7 +375,7 @@ conference:
 
 
 review:
-  show: false
+  show: true
   order: 6
   title: Peer review
   description: <i>Number of articles in brackets</i>
@@ -403,7 +403,7 @@ review:
        
   
 funding:
-  show: false
+  show: true
   order: 7
   title: Funding
   description: <i>Project titles translated from Spanish are indicated with [S]</i>
@@ -470,7 +470,7 @@ funding:
         
 
 certificate:
-  show: false
+  show: true
   order: 8
   title: Coursework
   description:
@@ -532,7 +532,7 @@ certificate:
       date: 2017
 
 hrtraining:
-  show: false
+  show: true
   order: 9
   title: Human resources training
   description: <i>Titles translated from Spanish are indicated with [S]</i>
@@ -551,7 +551,7 @@ hrtraining:
         + López MA. <i>Species delimitation in a group of Patagonian geckos (</i>Homonota<i>: </i>H. underwoodi<i> group)</i> [S]. Instituto Patagónico para el Estudio de los Ecosistemas Continentales (IPEEC-CONICET). <b>Co-advisor (2020 - 2022)</b>
 
 teaching:
-  show: false
+  show: true
   order: 10
   title: Teaching
   description: <i>Titles translated from Spanish are indicated with [S]</i>
@@ -572,7 +572,7 @@ teaching:
         + <i>An integrative approach to infer species limits in southern populations of the </i>Liolaemus kingii<i> group (Squamata: Liolaemini)</i> [S]. Herpetology course (responsible professor: Luciano J Avila). Universidad Nacional de la Patagonia “San Juan Bosco”. 2020
 
 skill:
-  show: false
+  show: true
   order: 11
   title: Skills
   description:
@@ -610,7 +610,7 @@ skill:
   #       - Skill I
 
 society:
-  show: false
+  show: true
   order: 12
   title: Academic society memberships
   description:
@@ -627,7 +627,7 @@ society:
       type: By application
 
 language:
-  show: false
+  show: true
   order: 13
   title: Languages
   description:
@@ -641,7 +641,7 @@ language:
       
 
 interest:
-  show: false
+  show: true
   order: 14
   title: Interests
   description:
@@ -654,7 +654,7 @@ interest:
   
 
 reference:
-  show: false
+  show: true
   order: 15
   title: References
   description:
