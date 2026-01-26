@@ -81,7 +81,7 @@ contact:
 
 
 profile:
-  show: false
+  show: true
   order: 1
   title: Profile
   description: |
@@ -89,7 +89,7 @@ profile:
     Although my primary research system has been reptiles, I am broadly interested in applying these integrative approaches to other biological systems to address fundamental questions in speciation and adaptation.
 
 experience:
-  show: true
+  show: false
   order: 2
   title: Professional Exp
   description:
