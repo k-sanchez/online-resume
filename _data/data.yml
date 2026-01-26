@@ -2,7 +2,7 @@ basic:
   name: Kevin I. Sánchez, PhD # name
   title: PhD in Biological Sciences # job title
   avatar:
-    show: false # show or hide avatar
+    show: true # show or hide avatar
     # path: /assets/images/profile.png # avatar file path
 
 
