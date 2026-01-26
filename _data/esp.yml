@@ -89,7 +89,7 @@ profile:
     Aunque mi trayectoria se ha centrado principalmente en reptiles, estoy interesado en aplicar estos enfoques a otros sistemas biológicos que permitan responder preguntas fundamentales sobre los procesos de especiación y adaptación.
 
 experience:
-  show: false
+  show: true
   order: 
   title: Experiencias profesionales
   description:
