@@ -88,6 +88,18 @@ profile:
     Mi interés se centra en la elucidación de la historia evolutiva de poblaciones naturales, con especial atención a la delimitación de especies, las relaciones filogenéticas y la genómica poblacional. Para abordar estos temas, utilizo enfoques analíticos basados en modelos evolutivos que integran datos genéticos, fenotípicos y ecogeográficos, reconociendo que los procesos evolutivos actúan a través de múltiples dimensiones y escalas temporales. Durante mi doctorado, integré herramientas de filogeografía y sistemática para estudiar la diversificación de lagartijas patagónicas del género <i>Liolaemus</i>, combinando datos genómicos y fenotípicos. Este trabajo me permitió explorar patrones de divergencia y conectividad poblacional y dinámicas de colonización en ambientes extremos. Actualmente, en mi etapa postdoctoral, amplío mi investigación al estudio de gecos australes, enfocándome en la delimitación de especies y en el entendimiento de los procesos ecológicos y evolutivos que moldean su diversidad genética y fenotípica.
     Aunque mi trayectoria se ha centrado principalmente en reptiles, estoy interesado en aplicar estos enfoques a otros sistemas biológicos que permitan responder preguntas fundamentales sobre los procesos de especiación y adaptación.
 
+experience:
+  show: false
+  order: 
+  title: Experiencias profesionales
+  description:
+  items:
+    - company: Instituto Patagónico para el Estudio de los Ecosistemas Continentales (IPEEC-CONICET)
+      tags: Full-time
+      date: 2024-08 - 2026-04
+      role: Investigador post-doctoral
+      location: Puerto Madryn, Argentina
+
 education:
   show: true
   order: 2
