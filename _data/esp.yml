@@ -104,7 +104,7 @@ education:
   show: true
   order: 3
   title: Educación
-  description:
+  description: ""
   items:
     - institution: Universidad Nacional de Córdoba
       link:

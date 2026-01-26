@@ -92,7 +92,7 @@ experience:
   show: false
   order: 2
   title: Professional Exp
-  description:
+  description: ""
   items:
     - company: Instituto Patagónico para el Estudio de los Ecosistemas Continentales (IPEEC-CONICET)
       tags: Full-time
