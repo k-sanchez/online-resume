@@ -91,7 +91,7 @@ profile:
 experience:
   show: true
   order: 2
-  title: Professional Experiences
+  title: Professional Exp
   # description:
   items:
     - company: Instituto Patagónico para el Estudio de los Ecosistemas Continentales (IPEEC-CONICET)
