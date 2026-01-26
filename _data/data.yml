@@ -88,6 +88,13 @@ profile:
     My research focuses on elucidating the evolutionary history of natural populations, with particular emphasis on species delimitation, phylogenetic relationships, and population genomics. I employ model-based analytical approaches that integrate genetic, phenotypic, and ecogeographic data, recognizing that evolutionary processes operate across multiple dimensions and timescales. During my PhD, I combined phylogeographic and systematic frameworks to study the diversification of Patagonian lizards of the genus <i>Liolaemus</i>, integrating genomic and phenotypic evidence to explore patterns of population divergence and connectivity, and colonization dynamics in extreme environments. Currently, in my postdoctoral research, I am expanding these approaches to study the diversification and species delimitation of southern geckos, investigating how ecological and evolutionary processes shape genetic and phenotypic diversity.
     Although my primary research system has been reptiles, I am broadly interested in applying these integrative approaches to other biological systems to address fundamental questions in speciation and adaptation.
 
+experience:
+  show: true
+  order: 1
+  title: Professional experience
+  date: 2024 - 2026
+  description: CONICET Post-doctoral fellow at IPEEC-CONICET
+
 education:
   show: true
   order: 2
