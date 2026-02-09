@@ -81,7 +81,7 @@ contact:
 
 
 profile:
-  show: false
+  show: true
   order: 1
   title: Perfil
   description: |
@@ -216,7 +216,6 @@ conference:
   title: Presentaciones en reuniones científicas
   description: ""
   items:
-    items:
     - title: "Unraveling early divergence in the <i>Liolaemus fitzingerii</i> group (Squamata: Liolaemidae) across overlapping genomic clines"
       authors: Páez-Vacas MI, <u>Sánchez KI</u>, Avila LJ, Olave M, Morando M
       date: 2025
