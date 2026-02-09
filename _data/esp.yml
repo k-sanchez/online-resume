@@ -81,7 +81,7 @@ contact:
 
 
 profile:
-  show: true
+  show: false
   order: 1
   title: Perfil
   description: |
@@ -222,7 +222,156 @@ conference:
       date: 2025
       link: https://doi.org/10.30550/j.azl/s182
       description: "II Congreso Latinoamericano de Evolución, VI Reunión Argentina de Biología Evolutiva, XII Reunión Anual Chilena de Evolución, SMBE Regional Meeting (Tucumán, Argentina)"
-  
+      
+    - title: "Genómica del paisaje revela señales de adaptación local en el geco más austral del mundo"
+      authors: <u>Sánchez KI</u>, Olave M, Avila LJ, Morando M
+      date: 2025
+      link: https://doi.org/10.30550/j.azl/s182
+      description: "II Congreso Latinoamericano de Evolución, VI Reunión Argentina de Biología Evolutiva, XII Reunión Anual Chilena de Evolución, SMBE Regional Meeting (Tucumán, Argentina)"
+      
+    - title: "Hibridación, reticulación y desafíos para comprender la diversificación en <i>Liolaemus</i>"
+      authors: Morando M, <u>Sánchez KI</u>, Avila LJ, Olave M
+      date: 2025
+      link: https://doi.org/10.30550/j.azl/s182
+      description: "II Congreso Latinoamericano de Evolución, VI Reunión Argentina de Biología Evolutiva, XII Reunión Anual Chilena de Evolución, SMBE Regional Meeting (Tucumán, Argentina)"
+      
+    - title: "Diversification in the gray zone of speciation: Hybridization in <i>Liolaemus</i> lizards (Squamata) and an in-depth study in the <i>L. kingii</i> group"
+      authors: Morando M, <u>Sánchez KI</u>, Avila LJ
+      date: 2024
+      # link: '#'
+      description: "10<sup>th</sup> World Congress of Herpetology"
+      
+    - title: "Conservation genomics of <i>Liolaemus</i> lizards from the end of the world"
+      authors: Battistella B, <u>Sánchez KI</u>, Morando M, Olave M
+      date: 2024
+      # link: '#'
+      description: "3<sup>rd</sup> Joint Congress on Evolutionary Biology (virtual talks)"
+      
+    - title: "Review of the present status of Leiosaurae: taxonomy, distribution, and conservation issues"
+      authors: Avila LJ, <u>Sánchez KI</u>, Vrdoljak JE, Morando M
+      date: 2023
+      # link: '#'
+      description: "Camp’23: Celebrating 100 years of Charles L. Camp’s Classification of the Lizards (New York, EEUU)"
+
+    - title: Reticulation in Squamata, the changing notion of species and a challenge for classification
+      authors: Morando M, <u>Sánchez KI</u>, Avila LJ
+      date: 2023
+      description: "Camp’23: Celebrating 100 years of Charles L. Camp’s Classification of the Lizards (New York, EEUU)"
+
+    - title: Detectando al flujo génico en la era genómica
+      authors: <u>Sánchez KI</u>, Morando M
+      date: 2023
+      description: V Reunión Argentina de Biología Evolutiva (La Plata, Argentina)
+
+    - title: "Navegando el paisaje de la biodiversidad: un flujo de trabajo taxonómico en el marco de la metáfora del mapa y el territorio"
+      authors: Vrdoljak J, <u>Sánchez KI</u>, Avila LJ, Morando M
+      date: 2023
+      description: V Reunión Argentina de Biología Evolutiva (La Plata, Argentina)
+
+    - title: |
+        Enigma críptico: ¿cuántas especies incluye <i>Homonota whitii</i>?
+      authors: Oporto NL, <u>Sánchez KI</u>, Avila LJ, Sites Jr. JW, Morando M
+      date: 2023
+      description: V Reunión Argentina de Biología Evolutiva (La Plata, Argentina)
+
+    - title: Develando la diversidad del grupo de geckos neotropicales <i>Homonota horrida</i>
+      authors: Millan Lugo AC, <u>Sánchez KI</u>, Avila LJ, Sites Jr. JW, Morando M
+      date: 2023
+      description: V Reunión Argentina de Biología Evolutiva (La Plata, Argentina)
+
+    - title: Contrastando modelos de bifurcación estricta y reticulación en un grupo de lagartijas Patagónicas (clado <i>Liolaemus kingii</i>)
+      authors: <u>Sánchez KI</u>, Avila LJ, Morando M
+      date: 2023
+      description: X Congresso Brasileiro de Herpetologı́a (Porto Seguro, Brazil)
+
+    - title: Comparación de métodos de delimitación de especies en el grupo <i>Homonota horrida</i>
+      authors: Millan Lugo AC, <u>Sánchez KI</u>, Avila LJ, Sites Jr. JW, Morando M
+      date: 2022
+      description: XXII Congreso Argentino de Herpetologı́a (Santa Fe, Argentina)
+
+    - title: Diversidad crı́ptica del grupo <i>Homonota whitii</i>. ¿Cuántas especies incluye?
+      authors: Oporto NL, <u>Sánchez KI</u>, Avila LJ, Sites Jr. JW, Morando M
+      date: 2022
+      description: XXII Congreso Argentino de Herpetologı́a (Santa Fe, Argentina)
+
+    - title: Comparación de métodos de delimitación de especies en el grupo <i>Homonota horrida</i>
+      authors: Millan Lugo AC, <u>Sánchez KI</u>, Avila LJ, Sites Jr. JW, Morando M
+      date: 2022
+      description: XIV Reunión Argentina de Cladística y Biogeografía (Trelew, Argentina)
+      
+    - title: Diversidad crı́ptica del grupo <i>Homonota whitii</i>. ¿Cuántas especies incluye?
+      authors: Oporto NL, <u>Sánchez KI</u>, Avila LJ, Sites Jr. JW, Morando M
+      date: 2022
+      description: XIV Reunión Argentina de Cladística y Biogeografía (Santa Fe, Argentina)
+      
+    - title: |
+        La reticulación explica la compleja historia de diversificación en un clado de lagartijas patagónicas (Squamata: Liolaemini: clado <i>Liolaemus kingii</i>)
+      authors: <u>Sánchez KI</u>, Avila LJ, Sites Jr. JW, Morando M
+      date: 2021
+      description: XXI Congreso Argentino de Herpetologı́a (evento en línea)
+      
+    - title: ¿Hay una nueva especie de gecko en Argentina? Comparación de métodos de delimitación de especies para un locus en el grupo <i>Homonota underwoodi</i>
+      authors: López MA, <u>Sánchez KI</u>, Avila LJ, Sites Jr. JW, Morando M
+      date: 2021
+      description: XXI Congreso Argentino de Herpetologı́a (evento en línea)
+
+    - title: |
+        An integrative multi-approach workflow resolves species limits in the southernmost members of the <i>Liolaemus kingii</i> group (Squamata: Liolaemini)
+      authors: <u>Sánchez KI</u>, Avila LJ, Sites Jr. JW, Morando M. 2020
+      date: 2020
+      description: I Meeting of Systematics, Biogeography and Evolution (evento en línea)
+
+    - title: Poniendo a prueba métodos de descubrimiento de especies en lagartijas del grupo <i>Liolaemus kingii</i>
+      authors: <u>Sánchez KI</u>, Avila LJ, Morando M
+      date: 2019
+      description: XX Congreso Argentino de Herpetologı́a (San Juan, Argentina)
+
+    - title: "¿Es la crisis de la replicación un problema únicamente de psicólogos? Caso de estudio: morfometrı́a geométrica"
+      authors: Vrdoljak JE, <u>Sánchez KI</u>, Arreola Ramos R, Diaz Huesa EG, Villagra A, Morando M, Avila LJ
+      date: 2019
+      description: XXIV Reunión del Grupo Argentino de Biometrı́a (Mendoza, Argentina)
+
+    - title: Evaluación empı́rica de un protocolo para el ensamblado de datos genómicos obtenidos mediante ddRADseq
+      authors: <u>Sánchez KI</u>, Avila LJ, Sites Jr. JW, Leaché AD, Morando M
+      date: 2019
+      description: 9° Jornada de Becarixs y 1° Encuentro Patagónico de Becarixs (Puerto Madryn, Argentina)
+
+    - title: Comparación de métodos explı́citos de delimitación de especies e historia evolutiva de lagartijas del grupo <i>Liolaemus kingii</i>
+      authors: <u>Sánchez KI</u>, Avila LJ, Morando M
+      date: 2018
+      description: 8° Jornada de Becarixs CONICET-CENPAT (Puerto Madryn, Argentina)
+
+    - title: Contribuciones de la citogenética de peces neotropicales al conocimiento de los sistemas cromosómicos
+      authors: Fenocchio AS, Caffetti JD, Furnus G, García E, Leveroni F, Maldonado MA, <u>Sánchez KI</u>, Pioli UO, Rau AI, Roncati HA, Pastori MC
+      date: 2017
+      description: II Reunión Argentina de Biologı́a Evolutiva (Corrientes, Argentina)
+
+    - title: |
+        Citogenética comparativa en especies del género <i>Moenkhausia</i> Eigenmann, 1903 (Characiformes: Characidae)
+      authors: <u>Sánchez KI</u>, Pioli UO, Takagui FH, Fenocchio AS
+      date: 2017
+      description: V Simposio Argentino de Ictiologı́a (Corrientes, Argentina)
+
+    - title: Contribución al estudio citogenético de dos géneros pertenecientes a la familia Poeciliidae (Cyprinodontiformes) de afluentes del Rı́o Paraná (Misiones, Argentina)
+      authors: Rau AI, Maldonado MA, Caffetti JD, <u>Sánchez KI</u>, Pastori MC
+      date: 2017
+      description: V Simposio Argentino de Ictiologı́a (Corrientes, Argentina)
+
+    - title: |
+        Caracterización citogenética de un stock cultivado de <i>Cyprinus carpio</i> L. y <i>Ctenopharyngodon idella</i> V. (Ostariophysi: Cypriniformes)
+      authors: <u>Sánchez KI</u>, Rau AI, Pioli UO, Caffetti JD, Pastori MC, Fenocchio AS
+      date: 2016
+      description: Jornadas Regionales de Genética (Corrientes, Argentina)
+
+    - title: Estudos citogeneticos de espécies exóticas cultivadas em Misiones, Argentina (<i>Cyprinus carpio</i> L. e <i>Ctenopharyngodon idella</i> V.)
+      authors: <u>Sánchez KI</u>, Pioli UO, Rau AI, Caffetti JD, Fenocchio AS
+      date: 2015
+      description: XVI Simpósio de Citogenética e Genética de Peixes (Cuiabá, Brazil)
+
+    - title: Estudios citogenéticos preliminares de peces exóticos cultivados en Misiones (<i>Cyprinus carpio</i> L. y <i>Ctenopharyngodon idella</i> V.)
+      authors: <u>Sánchez KI</u>, Pioli UO, Pastori MC, Fenocchio AS
+      date: 2015
+      description: IX Jornadas Cientı́fico-Tecnológicas de la Universidad Nacional de Misiones (Posadas, Argentina)
 
 
 review:
@@ -422,7 +571,7 @@ teaching:
         + <i>Phylogenetic network reconstruction</i> (dictado con Melisa Olave). X Congresso Brasileiro de Herpetologia (Porto Seguro, Bahia). 2023
     - name: <b>Orador invitado</b>
       description: |
-        + <i>Genómica de poblaciones</i> (profesor responsable: Mariana Morando). Universidad Nacional de la Patagonia “San Juan Bosco”. 2024
+        + <i>Genómica de poblaciones</i> (profesor responsable: Mariana Morando). Universidad Nacional de la Patagonia “San Juan Bosco”. 2025
         + <i>Manipulación de bases de datos y estimación de relaciones filogenéticas con datos moleculares</i> (profesor responsable: Mariana Morando). Universidad Nacional de la Patagonia “San Juan Bosco”. 2025        
         + <i>Manipulación de bases de datos y estimación de relaciones filogenéticas con datos moleculares</i> (profesor responsable: Mariana Morando). Universidad Nacional de la Patagonia “San Juan Bosco”. 2024
         + <i>Un enfoque integrativo para inferir límites de especie en miembros australes del grupo</i> Liolaemus kingii <i>(Squamata: Liolaemini)</i>. Curso de Herpetología (profesor responsable: Luciano J Avila). Universidad Nacional de la Patagonia San Juan Bosco. 2020
