@@ -681,6 +681,14 @@ reference:
       email: olave.mel@gmail.com
       description: Colaboradora
 
+    - name: Dr. Edward A. Myers
+      link: https://edwardamyers.wordpress.com/
+      title: Investigador
+      institution: California Academy of Sciences
+      address: 55 Music Concourse Dr, San Francisco, CA 94118, USA
+      email: emyers@calacademy.org
+      description: Colaborador
+
     - name: Dr. Kathryn R. Elmer
       link: http://elmerlab.blogspot.com/
       title: Profesora

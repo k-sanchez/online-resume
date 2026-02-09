@@ -684,7 +684,15 @@ reference:
       address: 55 Music Concourse Dr, San Francisco, CA 94118, USA
       email: emyers@calacademy.org
       description: Collaborator
-      
+
+    - name: Dr. Kathryn R. Elmer
+      link: http://elmerlab.blogspot.com/
+      title: Professor
+      institution: School of Biodiversity, One Health and Veterinary Medicine, College of Medical, Veterinary and Life Sciences, University of Glasgow
+      address: Garscube Campus, Bearsden Road, Glasgow, G12 8QQ, UK
+      email: Kathryn.Elmer@glasgow.ac.uk
+      description: Colaborator
+
 ####################################################################################
 ####################################################################################
 
