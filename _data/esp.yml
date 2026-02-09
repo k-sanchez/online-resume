@@ -97,7 +97,7 @@ experience:
     - company: Instituto Patagónico para el Estudio de los Ecosistemas Continentales (IPEEC-CONICET)
       tags: Full-time
       date: 2024/08 - 2026/04
-      role: Becario post-doctoral
+      role: Becario pos-doctoral
       location: Puerto Madryn, Argentina
 
 education:
@@ -112,8 +112,8 @@ education:
       major: Doctor en Ciencias Biológicas
       degree: PhD
       description: |
-        Tesis: Comparación de métodos explícitos de delimitación de especies e historia evolutiva de lagartijas del grupo <i>Liolaemus kingii</i> (Liolaemini: <i>Liolaemus</i>)<br>
-        Asesores: Mariana Morando, Luciano J. Avila
+        <u>Tesis</u>: Comparación de métodos explícitos de delimitación de especies e historia evolutiva de lagartijas del grupo <i>Liolaemus kingii</i> (Liolaemini: <i>Liolaemus</i>)<br>
+        <u>Asesores</u>: Mariana Morando, Luciano J. Avila
       
     - institution: Universidad Nacional de Misiones
       link: "https://registrograduados.siu.edu.ar/consulta.php?ah=st65957013dd1264.79928355&ai=registro_dngu||92000001&tcm=popup&cGFyYW1ldHJv=eyJpZF9yZW1pdG8iOiIzMTEwMDciLCJ0aXBvX3lfZG9jdW1lbnRvIjoiRG9jdW1lbnRvIE5hY2lvbmFsIGRlIElkZW50aWRhZCAzNDg5NzAxNSIsImRvY3VtZW50byI6IjM0ODk3MDE1Iiwibm9tYnJlX2FwZWxsaWRvIjoiU0FOQ0hFWiwgS0VWSU4gSU1BTk9MIiwiYXBlbGxpZG8iOiJTQU5DSEVaIiwibm9tYnJlIjoiS0VWSU4gSU1BTk9MIiwiZmVjaGFfZWdyZXNvIjoiMjAxNy0wOC0yNCIsIm5hY2lvbmFsaWRhZCI6IkFSR0VOVElOTyIsImluc3RpdHVjaW9uIjoiVW5pdmVyc2lkYWQgTmFjaW9uYWwgZGUgTWlzaW9uZXMiLCJ0aXR1bG8iOiJMaWNlbmNpYWRvIGVuIEdlblx1MDBlOXRpY2EiLCJpZF90aXBvX2RvY3VtZW50byI6IkROSSIsInNpc3RlbWEiOiJzaWNlciIsImJsb2NrY2hhaW4iOiJibG9ja2NoYWluX2xvZ29fY29sb3IucG5nIn0%3D&tm=1"
@@ -121,15 +121,15 @@ education:
       major: Licenciado en Genética
       degree: Licenciatura
       description: |
-        Tesis: Citogenética comparativa en especies del género <i>Moenkhausia</i> Eigenmann, 1903 (Characiformes: Characidae)<br>
-        Asesores: Alberto S. Fenocchio
+        <u>Tesis</u>: Citogenética comparativa en especies del género <i>Moenkhausia</i> Eigenmann, 1903 (Characiformes: Characidae)<br>
+        <u>Asesores</u>: Alberto S. Fenocchio
 
 
 publication:
   show: true
   order: 4
   title: Publicaciones
-  description: <b>*</b> Autor principal
+  description: <i>* Autor principal</i>
   items:
     - title: |
         A new gecko (Phyllodactylidae: <i>Homonota whitii</i> group) from the Diaguita highlands, Argentina, with an updated phylogeny for the genus
@@ -214,7 +214,7 @@ conference:
   show: true
   order: 5
   title: Presentaciones en reuniones científicas
-  description:
+  description: ""
   items:
     items:
     - title: "Unraveling early divergence in the <i>Liolaemus fitzingerii</i> group (Squamata: Liolaemidae) across overlapping genomic clines"
