@@ -473,7 +473,7 @@ funding:
         
 
 certificate:
-  show: false
+  show: true
   order: 8
   title: Cursos de posgrado
   description:
@@ -647,7 +647,7 @@ language:
       
 
 interest:
-  show: false
+  show: true
   order: 14
   title: Intereses
   description:
@@ -659,7 +659,7 @@ interest:
     - item: Guitarra
     
 reference:
-  show: false
+  show: true
   order: 15
   title: Referencias
   description:
