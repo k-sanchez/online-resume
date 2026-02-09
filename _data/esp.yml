@@ -214,10 +214,10 @@ conference:
   show: true
   order: 5
   title: Presentaciones en reuniones científicas
-  # description:
+  description:
   items:
     items:
-    - title: "Unraveling early divergence in the <i>Liolaemus fitzingerii</i> gorup (Squamata: Liolaemidae) across overlapping genomic clines"
+    - title: "Unraveling early divergence in the <i>Liolaemus fitzingerii</i> group (Squamata: Liolaemidae) across overlapping genomic clines"
       authors: Páez-Vacas MI, <u>Sánchez KI</u>, Avila LJ, Olave M, Morando M
       date: 2025
       link: https://doi.org/10.30550/j.azl/s182
