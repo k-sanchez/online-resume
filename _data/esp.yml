@@ -449,7 +449,7 @@ funding:
       funder: Secretaría de Ciencia y Técnica de la Universidad Nacional de la Patagonia “San Juan Bosco”
       date: 2024
       project: |
-        Diversificación en geckos (Squamata: Phyllodactylidae: <span>Homonota</span>): desafíos y oportunidades planteadas por la integración de información genética y fenotípica en los grupos <span>H. borelli</span> y <span>H. horrida</span>
+        Diversificación en geckos (Squamata: Phyllodactylidae: <span class="normal">Homonota</span>): desafíos y oportunidades planteadas por la integración de información genética y fenotípica en los grupos <span class="normal">H. borelli</span> y <span class="normal">H. horrida</span>
       description: ARS 300000
 
     - name: "LinnéSys: Systematics Research Fund"
