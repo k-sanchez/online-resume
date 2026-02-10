@@ -463,14 +463,14 @@ funding:
       date: 2017–2018
       project: |
         Comparative cytogenetics in species of the genus <span style="font-style: normal;">Moenkhausia</span> Eigenmann, 1903 (Ostariophysi: Characiformes) [S]
-      description: ARS XXX
+      # description: ARS XXX # AVERIGUAR MONTO
           
     - name: "Beca de iniciación en la investigación: Jóvenes estudiantes avanzados"
       funder: Comité de Desarrollo e Innovación Tecnológica (CEDIT)
       date: 2016–2017
       project: |
         Cytogenetic analysis in a population of <span style="font-style: normal;">Moenkhausia dichroura</span> Kner, 1858 (Ostariophysi: Characiformes) from Paraná River, Misiones Province, Argentina [S]
-      description: ARS XXX
+      # description: ARS XXX # AVERIGUAR MONTO
 
     - name: Becas SecIP para auxiliares de investigación
       funder: Secretaría de Investigación y Posgrado de la Universidad Nacional de Misiones
