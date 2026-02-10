@@ -375,7 +375,7 @@ conference:
 
 review:
   show: true
-  order: 6
+  order: 7
   title: Revisor de artículos
   description: En corchetes figura el número de articulos revisados
   items:
@@ -407,7 +407,7 @@ review:
   
 funding:
   show: true
-  order: 7
+  order: 6
   title: Financiamiento
   items:
     - name: "Lakeside fund (California Academy of Sciences)"

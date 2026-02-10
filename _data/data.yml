@@ -377,7 +377,7 @@ conference:
 
 review:
   show: true
-  order: 6
+  order: 7
   title: Peer review
   description: <i>Number of articles in brackets</i>
   items:
@@ -405,7 +405,7 @@ review:
   
 funding:
   show: true
-  order: 7
+  order: 6
   title: Funding
   description: <i>Project titles translated from Spanish are indicated with [S]</i>
   items:
