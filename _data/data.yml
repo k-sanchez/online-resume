@@ -414,54 +414,63 @@ funding:
       date: 2025
       project: |
         Introgression and evolutionary dynamics in the <span style="font-style: normal;">Liolaemus darwinii</span> complex: Disentangling neutral and adaptive processes
-        
+      description: USD 13225
+
     - name: "Evolutionary, Ecological, or Conservation Genomics (EECG) Research Award"
       funder: American Genetic Association
       date: 2025
       project: |
         Genomic insights into adaptation and population connectivity in the world's southernmost gecko (<span style="font-style: normal;">Homonota darwinii</span> complex)
+      description: USD 6000
 
     - name: "LinnéSys: Systematics Research Fund"
       funder: The Linnean Society of London y The Systematics Association
       date: 2024
       project: |
         Assessing the role of hybridization in the origin of the only parthenogenetic pleurodont lizard (Squamata: Liolaemidae: <span style="font-style: normal;">Liolaemus parthenos</span>)
+      description: ￡ 1340
 
     - name: "CONICET Posdoctoral Fellowship"
       funder: Consejo Nacional de Investigaciones Científicas y Técnicas
       date: 2024 – 2026
       project: |
         Diversification in the arid zones of Argentina: Evolutionary history and population genomics of the world's southernmost gecko (Squamata: Phyllodactylidae: <span style="font-style: normal;">Homonota darwinii</span>) [S]
-        
+      description: ARS 20214003.81 (as of February 2026, ongoing)
+
     - name: "Lakeside fund (California Academy of Sciences)"
       funder: Lakeside Foundation 
       date: 2024
       project: |
         Evolutionary origins of the only parthenogenetic pleurodont lizard
-        
+      description: USD 12011
+
     - name: "LinnéSys: Systematics Research Fund"
       funder: The Linnean Society of London and The Systematics Association
       date: 2021-2022
       project: |
         Cryptic diversity and evolutionary history of lizards of the <span style="font-style: normal;">Liolaemus kingii</span> group
+      description: ￡ 994
 
     - name: "CONICET Doctoral Fellowship"
       funder: Consejo Nacional de Investigaciones Científicas y Técnicas
       date: 2018 – 2024
       project: |
         Comparison of explicit species delimitation methods and evolutionary history of lizards of the <span style="font-style: normal;">Liolaemus kingii</span> group (Liolaemini: <span style="font-style: normal;">Liolaemus</span>) [S]
+      description: ARS 9161539.02
 
     - name: "Beca de iniciación en la investigación: Jóvenes estudiantes avanzados"
       funder: Comité de Desarrollo e Innovación Tecnológica (CEDIT)
       date: 2017 – 2018
       project: |
         Comparative cytogenetics in species of the genus <span style="font-style: normal;">Moenkhausia</span> Eigenmann, 1903 (Ostariophysi: Characiformes) [S]
+      description: ARS XXX
           
     - name: "Beca de iniciación en la investigación: Jóvenes estudiantes avanzados"
       funder: Comité de Desarrollo e Innovación Tecnológica (CEDIT)
       date: 2016 – 2017
       project: |
         Cytogenetic analysis in a population of <span style="font-style: normal;">Moenkhausia dichroura</span> Kner, 1858 (Ostariophysi: Characiformes) from Paraná River, Misiones Province, Argentina [S]
+      description: ARS XXX
 
     - name: Becas SecIP para auxiliares de investigación
       funder: Secretaría de Investigación y Posgrado de la Universidad Nacional de Misiones
