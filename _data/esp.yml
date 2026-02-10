@@ -445,6 +445,13 @@ funding:
         Evolutionary origins of the only parthenogenetic pleurodont lizard
       description: USD 12011
 
+    - name: Proyectos de Investigación 2024 (co-dirigido con M. Morando)
+      funder: Secretaría de Ciencia y Técnica de la Universidad Nacional de la Patagonia “San Juan Bosco”
+      date: 2024
+      project: |
+        Diversificación en geckos (Squamata: Phyllodactylidae: <span>Homonota</span>): desafíos y oportunidades planteadas por la integración de información genética y fenotípica en los grupos <span>H. borelli</span> y <span>H. horrida</span>
+      description: ARS 300000
+
     - name: "LinnéSys: Systematics Research Fund"
       funder: The Linnean Society of London y The Systematics Association
       date: 2021
