@@ -96,7 +96,7 @@ experience:
   items:
     - company: Instituto Patagónico para el Estudio de los Ecosistemas Continentales (IPEEC-CONICET)
       tags: Full-time
-      date: 2024 - 2026
+      date: 2024–2026
       role: Becario pos-doctoral
       location: Puerto Madryn, Argentina
 
@@ -108,7 +108,7 @@ education:
   items:
     - institution: Universidad Nacional de Córdoba
       link:
-      date: 2019 - 2023
+      date: 2019–2023
       major: Doctor en Ciencias Biológicas
       degree: PhD
       description: |
@@ -117,7 +117,7 @@ education:
       
     - institution: Universidad Nacional de Misiones
       link: "https://registrograduados.siu.edu.ar/consulta.php?ah=st65957013dd1264.79928355&ai=registro_dngu||92000001&tcm=popup&cGFyYW1ldHJv=eyJpZF9yZW1pdG8iOiIzMTEwMDciLCJ0aXBvX3lfZG9jdW1lbnRvIjoiRG9jdW1lbnRvIE5hY2lvbmFsIGRlIElkZW50aWRhZCAzNDg5NzAxNSIsImRvY3VtZW50byI6IjM0ODk3MDE1Iiwibm9tYnJlX2FwZWxsaWRvIjoiU0FOQ0hFWiwgS0VWSU4gSU1BTk9MIiwiYXBlbGxpZG8iOiJTQU5DSEVaIiwibm9tYnJlIjoiS0VWSU4gSU1BTk9MIiwiZmVjaGFfZWdyZXNvIjoiMjAxNy0wOC0yNCIsIm5hY2lvbmFsaWRhZCI6IkFSR0VOVElOTyIsImluc3RpdHVjaW9uIjoiVW5pdmVyc2lkYWQgTmFjaW9uYWwgZGUgTWlzaW9uZXMiLCJ0aXR1bG8iOiJMaWNlbmNpYWRvIGVuIEdlblx1MDBlOXRpY2EiLCJpZF90aXBvX2RvY3VtZW50byI6IkROSSIsInNpc3RlbWEiOiJzaWNlciIsImJsb2NrY2hhaW4iOiJibG9ja2NoYWluX2xvZ29fY29sb3IucG5nIn0%3D&tm=1"
-      date: 2010 - 2017
+      date: 2010–2017
       major: Licenciado en Genética
       degree: Licenciatura
       description: |
@@ -134,7 +134,7 @@ publication:
     - title: |
         A new gecko (Phyllodactylidae: <i>Homonota whitii</i> group) from the Diaguita highlands, Argentina, with an updated phylogeny for the genus
       authors: Morando M, <u>Sánchez KI</u>, Vrdoljak J, Pérez CHF, Sites Jr JW, Avila LJ
-      conference: Zoologica Scripta 54, 454-472
+      conference: Zoologica Scripta 54, 454–472
       date: 2025
       link: https://doi.org/10.1111/zsc.12725
     - title: |
@@ -146,7 +146,7 @@ publication:
     - title: |
         Evaluating the role of melanic coloration and environmental conditions on heat gain among Patagonian lizards (<i>Liolaemus fitzingerii</i> group)
       authors: Escudero PC, <u>Sánchez KI</u>, Avila LJ
-      conference: Journal of Herpetology 58, 98-108
+      conference: Journal of Herpetology 58, 98–108
       date: 2024
       link: https://doi.org/10.1670/23-021
     - title: |
@@ -168,7 +168,7 @@ publication:
     - title: |
         A new lizard species of the <i>Liolaemus kingii</i> group (Squamata: Liolaemidae) from northwestern Chubut province (Argentina)*
       authors: <u>Sánchez KI</u>, Morando M, Avila LJ
-      conference: Zootaxa 5264, 235-255
+      conference: Zootaxa 5264, 235–255
       date: 2023
       link: https://doi.org/10.11646/zootaxa.5264.2.5
 
@@ -431,9 +431,9 @@ funding:
         Assessing the role of hybridization in the origin of the only parthenogenetic pleurodont lizard (Squamata: Liolaemidae: <span style="font-style: normal;">Liolaemus parthenos</span>)
       description: ￡ 1340
 
-    - name: Beca posdoctoral CONICET
+    - name: Beca interna posdoctoral CONICET
       funder: Consejo Nacional de Investigaciones Científicas y Técnicas
-      date: 2024 – 2026
+      date: 2024–2026
       project: |
         Diversificación en zonas áridas de Argentina: Historia evolutiva y genómica poblacional del geco más austral del mundo (Squamata: Phyllodactylidae: <span style="font-style: normal;">Homonota darwinii</span>)
       description: ARS 20214003.81 (a Febrero 2026, en curso)
@@ -447,35 +447,35 @@ funding:
 
     - name: "LinnéSys: Systematics Research Fund"
       funder: The Linnean Society of London y The Systematics Association
-      date: 2021-2022
+      date: 2021
       project: |
         Cryptic diversity and evolutionary history of lizards of the <span style="font-style: normal;">Liolaemus kingii</span> group
       description: ￡ 994
 
     - name: Beca interna doctoral CONICET
       funder: Consejo Nacional de Investigaciones Científicas y Técnicas
-      date: 2018 – 2024
+      date: 2018–2024
       project: |
         Comparación de métodos explícitos de delimitación de especies e historia evolutiva de lagartijas del grupo <span style="font-style: normal;">Liolaemus kingii</span> (Liolaemini: <span style="font-style: normal;">Liolaemus</span>)
       description: ARS 9161539.02
 
     - name: "Beca de iniciación en la investigación: Jóvenes estudiantes avanzados"
       funder: Comité de Desarrollo e Innovación Tecnológica (CEDIT)
-      date: 2017 – 2018
+      date: 2017–2018
       project: |
         Citogenética comparativa en especies del género <span style="font-style: normal;">Moenkhausia</span> Eigenmann, 1903 (Ostariophysi: Characiformes)
       description: ARS XXX
 
     - name: "Beca de iniciación en la investigación: Jóvenes estudiantes avanzados"
       funder: Comité de Desarrollo e Innovación Tecnológica (CEDIT)
-      date: 2016 – 2017
+      date: 2016–2017
       project: |
         Análisis citogenético en una población de <span style="font-style: normal;">Moenkhausia dichroura</span> Kner, 1858 (Ostariophysi: Characiformes) del río Paraná, provincia de Misiones, Argentina
       description: ARS XXX
 
     - name: Becas SecIP para auxiliares de investigación
       funder: Secretaría de Investigación y Posgrado de la Universidad Nacional de Misiones
-      date: 2016 – 2017
+      date: 2013
       project: |
         Sistemas genéticos, citoembriología y citogenómica de gramíneas Sudamericanas
       description: ARS 1400
@@ -556,15 +556,15 @@ hrtraining:
     - name: Dirección de tesis de grado
       # tags: 
       description: |
-        + Millán Lugo AC. <i>Delimitación de especies en un grupo de Geckos patagónicos (</i>Homonota<i>: grupo</i> H. horrida<i>)</i>. Universidad Nacional de la Patagonia “San Juan Bosco”. <b>Co-asesor (2023 - )</b>
-        + Oporto NL. <i>Delimitación de especies en un grupo de Geckos patagónicos (</i>Homonota<i>: grupo</i> H. whitii<i>)</i>. Universidad Nacional de la Patagonia “San Juan Bosco”. <b>Co-asesor (2023 - )</b>       
-        + Battistella Gómez B. <i>Genómica de conservación de lagartijas Patagónicas del clado</i> Liolaemus kingii. Universidad Nacional de Cuyo. <b>Co-asesor (2024 - )</b>
-        + López MA. <i>Delimitación de especies en un grupo de Geckos patagónicos (</i>Homonota<i>: grupo </i>H. underwoodi<i>)</i>. Universidad Nacional de la Patagonia “San Juan Bosco”. <b>Co-asesor (2022 - 2023)</b>
+        + Millán Lugo AC. <i>Delimitación de especies en un grupo de Geckos patagónicos (</i>Homonota<i>: grupo</i> H. horrida<i>)</i>. Universidad Nacional de la Patagonia “San Juan Bosco”. <b>Co-asesor (2023–)</b>
+        + Oporto NL. <i>Delimitación de especies en un grupo de Geckos patagónicos (</i>Homonota<i>: grupo</i> H. whitii<i>)</i>. Universidad Nacional de la Patagonia “San Juan Bosco”. <b>Co-asesor (2023–)</b>       
+        + Battistella Gómez B. <i>Genómica de conservación de lagartijas Patagónicas del clado</i> Liolaemus kingii. Universidad Nacional de Cuyo. <b>Co-asesor (2024–2025)</b>
+        + López MA. <i>Delimitación de especies en un grupo de Geckos patagónicos (</i>Homonota<i>: grupo </i>H. underwoodi<i>)</i>. Universidad Nacional de la Patagonia “San Juan Bosco”. <b>Co-asesor (2022–2023)</b>
     - name: Pasantías
       description: |
-        + Millán Lugo AC. <i>Revelando diversidad críptica en el grupo de geckos</i> Homonota horrida<i>: resultados de secuencias de un marcador mitocondrial</i>. Instituto Patagónico para el Estudio de los Ecosistemas Continentales (IPEEC-CONICET). <b>Co-asesor (2021 - 2023)</b>
-        + Oporto NL. <i>Desentrañando la diversidad oculta en</i> Homonota whitti<i>: Estudio de linajes crípticos basado en un marcador mitocondrial</i>. Instituto Patagónico para el Estudio de los Ecosistemas Continentales (IPEEC-CONICET). <b>Co-asesor (2021 - 2023)</b>
-        + López MA. <i>Delimitación de especies en un grupo de Geckos patagónicos (</i>Homonota<i>: grupo </i>H. underwoodi<i>)</i>. Instituto Patagónico para el Estudio de los Ecosistemas Continentales (IPEEC-CONICET). <b>Co-asesor (2020 - 2022)</b>
+        + Millán Lugo AC. <i>Revelando diversidad críptica en el grupo de geckos</i> Homonota horrida<i>: resultados de secuencias de un marcador mitocondrial</i>. Instituto Patagónico para el Estudio de los Ecosistemas Continentales (IPEEC-CONICET). <b>Co-asesor (2021–2023)</b>
+        + Oporto NL. <i>Desentrañando la diversidad oculta en</i> Homonota whitti<i>: Estudio de linajes crípticos basado en un marcador mitocondrial</i>. Instituto Patagónico para el Estudio de los Ecosistemas Continentales (IPEEC-CONICET). <b>Co-asesor (2021–2023)</b>
+        + López MA. <i>Delimitación de especies en un grupo de Geckos patagónicos (</i>Homonota<i>: grupo </i>H. underwoodi<i>)</i>. Instituto Patagónico para el Estudio de los Ecosistemas Continentales (IPEEC-CONICET). <b>Co-asesor (2020–2022)</b>
 
 teaching:
   show: true
