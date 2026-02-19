@@ -92,7 +92,8 @@ experience:
   show: true
   order: 2
   title: Professional Experience
-  description: ""
+  description: |
+    <u>Advisors</u>: Dra. Mariana Morando, Dra. Melisa Olave
   items:
     - company: Instituto Patagónico para el Estudio de los Ecosistemas Continentales (IPEEC-CONICET)
       tags: Full-time
@@ -114,7 +115,7 @@ education:
       description: |
         <u>Thesis</u>: Comparación de métodos explícitos de delimitación de especies e historia evolutiva de lagartijas del grupo <i>Liolaemus kingii</i> (Liolaemini: <i>Liolaemus</i>)
         <p style="font-size: 14px;"><i>Comparison of explicit species delimitation methods and evolutionary history of </i>Liolaemus kingii<i> group's lizards (Liolaemini: </i>Liolaemus<i>)</i></p>
-        <u>Advisors</u>: Mariana Morando, Luciano J. Avila
+        <u>Advisors</u>: Dr. Mariana Morando, Dr.Luciano J. Avila
       
     - institution: Universidad Nacional de Misiones
       link: "https://registrograduados.siu.edu.ar/consulta.php?ah=st65957013dd1264.79928355&ai=registro_dngu||92000001&tcm=popup&cGFyYW1ldHJv=eyJpZF9yZW1pdG8iOiIzMTEwMDciLCJ0aXBvX3lfZG9jdW1lbnRvIjoiRG9jdW1lbnRvIE5hY2lvbmFsIGRlIElkZW50aWRhZCAzNDg5NzAxNSIsImRvY3VtZW50byI6IjM0ODk3MDE1Iiwibm9tYnJlX2FwZWxsaWRvIjoiU0FOQ0hFWiwgS0VWSU4gSU1BTk9MIiwiYXBlbGxpZG8iOiJTQU5DSEVaIiwibm9tYnJlIjoiS0VWSU4gSU1BTk9MIiwiZmVjaGFfZWdyZXNvIjoiMjAxNy0wOC0yNCIsIm5hY2lvbmFsaWRhZCI6IkFSR0VOVElOTyIsImluc3RpdHVjaW9uIjoiVW5pdmVyc2lkYWQgTmFjaW9uYWwgZGUgTWlzaW9uZXMiLCJ0aXR1bG8iOiJMaWNlbmNpYWRvIGVuIEdlblx1MDBlOXRpY2EiLCJpZF90aXBvX2RvY3VtZW50byI6IkROSSIsInNpc3RlbWEiOiJzaWNlciIsImJsb2NrY2hhaW4iOiJibG9ja2NoYWluX2xvZ29fY29sb3IucG5nIn0%3D&tm=1"
@@ -124,7 +125,7 @@ education:
       description: |
         <u>Thesis</u>: Citogenética comparativa en especies del género <i>Moenkhausia</i> Eigenmann, 1903 (Characiformes: Characidae)
         <p style="font-size: 14px;"><i>Comparative cytogenetics of species in the genus </i>Moenkhausia<i> Eigenmann, 1903 (Characiformes: Characidae)</i></p>
-        <u>Advisor</u>: Alberto S. Fenocchio
+        <u>Advisor</u>: Dr. Alberto S. Fenocchio
 
 
 publication:
