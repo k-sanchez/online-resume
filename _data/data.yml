@@ -92,14 +92,14 @@ experience:
   show: true
   order: 2
   title: Professional Experience
-  description: |
-    <u>Advisors</u>: Dra. Mariana Morando, Dra. Melisa Olave
   items:
     - company: Instituto Patagónico para el Estudio de los Ecosistemas Continentales (IPEEC-CONICET)
       tags: Full-time
       date: 2024–2026
       role: Postdoctoral fellow
       location: Puerto Madryn, Argentina
+      description: |
+        <u>Advisors</u>: Dr. Mariana Morando, Dr. Melisa Olave
 
 education:
   show: true

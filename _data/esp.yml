@@ -92,14 +92,14 @@ experience:
   show: true
   order: 2
   title: Experiencias profesionales
-  description: |
-    <u>Asesores</u>: Dra. Mariana Morando, Dra. Melisa Olave
   items:
     - company: Instituto Patagónico para el Estudio de los Ecosistemas Continentales (IPEEC-CONICET)
       tags: Tiempo completo
       date: 2024–2026
       role: Becario pos-doctoral
       location: Puerto Madryn, Argentina
+      description: |
+        <u>Asesores</u>: Dra. Mariana Morando, Dra. Melisa Olave
 
 education:
   show: true
