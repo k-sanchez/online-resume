@@ -217,6 +217,11 @@ conference:
   title: Presentaciones en reuniones científicas
   description: ""
   items:
+    - title: "Replicated hybrid zones reveal the ecological and genomic drivers of early divergence in Patagonian lizards"
+      authors: Páez-Vacas MI, <u>Sánchez KI</u>, Avila LJ, Olave M, Morando M
+      date: 2026
+      description: "XIII Congreso Latinoamericano de Herpetología (San José, Costa Rica)"
+      
     - title: "Unraveling early divergence in the <i>Liolaemus fitzingerii</i> group (Squamata: Liolaemidae) across overlapping genomic clines"
       authors: Páez-Vacas MI, <u>Sánchez KI</u>, Avila LJ, Olave M, Morando M
       date: 2025
