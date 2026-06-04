@@ -135,23 +135,33 @@ publication:
   description: <i>* Lead author role </i>
   items:
     - title: |
+        Integrative delimitation and demographic modeling uncover speciation with gene flow in <i>Homonota</i> geckos (Gekkota: Phyllodactylidae) from Argentina's highlands*
+      authors: <u>Sánchez KI</u>, López MA, Sites Jr JW, Avila LJ, Morando M
+      conference: Zoological Journal of the Linnean Society (in press)
+      date: 2026
+      link: https://doi.org/10.1093/zoolinnean/zlag118
+    
+    - title: |
         A new gecko (Phyllodactylidae: <i>Homonota whitii</i> group) from the Diaguita highlands, Argentina, with an updated phylogeny for the genus
       authors: Morando M, <u>Sánchez KI</u>, Vrdoljak J, Pérez CHF, Sites Jr JW, Avila LJ
       conference: Zoologica Scripta 54, 454–472
       date: 2025
       link: https://doi.org/10.1111/zsc.12725
+    
     - title: |
         A straightforward workflow to explore species diversity using the Patagonian lizards of the <i>Diplolaemus</i> genus (Iguania: Leiosauridae) as a study case, with the description of a new species
       authors: Vrdoljak J, <u>Sánchez KI</u>, González Marín A, Morando M, Avila LJ
       conference:  Molecular Phylogenetics and Evolution 204, 108274
       date: 2025
       link: https://doi.org/10.1016/j.ympev.2024.108274
+    
     - title: |
         Evaluating the role of melanic coloration and environmental conditions on heat gain among Patagonian lizards (<i>Liolaemus fitzingerii</i> group)
       authors: Escudero PC, <u>Sánchez KI</u>, Avila LJ
       conference: Journal of Herpetology 58, 98–108
       date: 2024
       link: https://doi.org/10.1670/23-021
+    
     - title: |
         Tracing evolutionary trajectories in the presence of gene flow in South American temperate lizards (Squamata: <i>Liolaemus kingii</i> group)*
       authors: <u>Sánchez KI</u>, Recknagel H, Elmer KR, Avila LJ, Morando M
@@ -349,6 +359,11 @@ conference:
   title: Conference presentations
   description: <i>Presentation titles translated from Spanish and Portuguese are indicated with [S] and [P], respectively.</i>
   items:
+    - title: "Replicated hybrid zones in Patagonian lizards uncover genomic and environmental patterns of early divergence"
+      authors: Páez-Vacas MI, <u>Sánchez KI</u>, Avila LJ, Olave M, Morando M
+      date: 2026
+      description: "Virtual Evolution (online event)"
+
     - title: "Replicated hybrid zones reveal the ecological and genomic drivers of early divergence in Patagonian lizards"
       authors: Páez-Vacas MI, <u>Sánchez KI</u>, Avila LJ, Olave M, Morando M
       date: 2026
@@ -382,7 +397,7 @@ conference:
       authors: Battistella B, <u>Sánchez KI</u>, Morando M, Olave M
       date: 2024
       # link: '#'
-      description: "3<sup>rd</sup> joint congress on Evolutionary Biology (virtual talks)"
+      description: "3<sup>rd</sup> joint congress on Evolutionary Biology - virtual talks (online event)"
 
     - title: "Review of the present status of Leiosaurae: taxonomy, distribution, and conservation issues"
       authors: Avila LJ, <u>Sánchez KI</u>, Vrdoljak JE, Morando M
