@@ -133,9 +133,16 @@ publication:
   description: <i>* Autor principal</i>
   items:
     - title: |
+        Spatial and ecological drivers of diversification in the world’s southernmost gecko*
+      authors: <u>Sánchez KI</u>, Wood Jr. PR, Sites Jr JW, Olave M, Avila LJ, Morando M
+      conference: Molecular Ecology (en prensa)
+      date: 2026
+      link: 
+
+    - title: |
         Integrative delimitation and demographic modeling uncover speciation with gene flow in <i>Homonota</i> geckos (Gekkota: Phyllodactylidae) from Argentina's highlands*
       authors: <u>Sánchez KI</u>, López MA, Sites Jr JW, Avila LJ, Morando M
-      conference: Zoological Journal of the Linnean Society (en prensa)
+      conference: Zoological Journal of the Linnean Society
       date: 2026
       link: https://doi.org/10.1093/zoolinnean/zlag118
 
