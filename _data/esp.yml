@@ -93,6 +93,14 @@ experience:
   order: 2
   title: Experiencias profesionales
   items:
+    - company: Department of Ecology and Evolutionary Biology & Museum of Zoology (University of Michigan)
+      tags: Tiempo completo
+      date: 2026–
+      role: Investigador pos-doctoral
+      location: Ann Arbor, Estados Unidos
+      description: |
+        <u>Investigador Principal</u>: Dr. Dan Rabosky
+
     - company: Instituto Patagónico para el Estudio de los Ecosistemas Continentales (IPEEC-CONICET)
       tags: Tiempo completo
       date: 2024–2026

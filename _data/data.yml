@@ -93,6 +93,14 @@ experience:
   order: 2
   title: Professional Experience
   items:
+    - company: Department of Ecology and Evolutionary Biology & Museum of Zoology (University of Michigan)
+      tags: Full-time
+      date: 2026–
+      role: Post-doctoral research fellow
+      location: Ann Arbor, USA
+      description: |
+        <u>PI</u>: Dr. Dan Rabosky
+
     - company: Instituto Patagónico para el Estudio de los Ecosistemas Continentales (IPEEC-CONICET)
       tags: Full-time
       date: 2024–2026
