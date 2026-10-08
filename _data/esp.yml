@@ -422,6 +422,8 @@ review:
   title: Revisor de artículos
   description: En corchetes figura el número de articulos revisados
   items:
+    - journal: <b>Biological Journal of the Linnean Society</b>
+      number: 1
     - journal: <b>Caryologia</b>
       number: 1
     - journal: <b>Cuadernos de Herpetología</b>
@@ -432,6 +434,8 @@ review:
       number: 2
     - journal: <b>Heredity</b>
       number: 1
+    - journal: <b>iScience</b>
+      number: 1       
     - journal: <b>Journal of Fish Biology</b>
       number: 2
     - journal: <b>Molecular Ecology</b>
@@ -440,13 +444,10 @@ review:
       number: 2
     - journal: <b>Peer Community in Evolutionary Biology</b>
       number: 1
+    - journal: <b>Zoological Journal of the Linnean Society</b>
+      number: 1
     - journal: <b>Zootaxa</b>
       number: 1
-    - journal: <b>iScience</b>
-      number: 1
-    - journal: <b>Biological Journal of the Linnean Society</b>
-      number: 1
-       
   
 funding:
   show: true

@@ -554,6 +554,8 @@ review:
   title: Peer review
   description: <i>Number of articles in brackets</i>
   items:
+    - journal: <b>Biological Journal of the Linnean Society</b>
+      number: 1
     - journal: <b>Caryologia</b>
       number: 1
     - journal: <b>Cuadernos de Herpetología</b>
@@ -564,6 +566,8 @@ review:
       number: 2
     - journal: <b>Heredity</b>
       number: 1
+    - journal: <b>iScience</b>
+      number: 1
     - journal: <b>Journal of Fish Biology</b>
       number: 2
     - journal: <b>Molecular Ecology</b>
@@ -571,6 +575,8 @@ review:
     - journal: <b>Molecular Phylogenetics and Evolution</b>
       number: 2
     - journal: <b>Peer Community in Evolutionary Biology</b>
+      number: 1
+    - journal: <b>Zoological Journal of the Linnean Society</b>
       number: 1
     - journal: <b>Zootaxa</b>
       number: 1
