@@ -154,7 +154,7 @@ publication:
       authors: <u>Sánchez KI</u>, Wood Jr. PR, Sites Jr JW, Olave M, Avila LJ, Morando M
       conference: Molecular Ecology 35, e70581
       date: 2026
-      link: 
+      link: https://doi.org/10.1111/mec.70581
   
     - title: |
         Integrative delimitation and demographic modeling uncover speciation with gene flow in <i>Homonota</i> geckos (Gekkota: Phyllodactylidae) from Argentina's highlands*
@@ -188,7 +188,7 @@ publication:
         Tracing evolutionary trajectories in the presence of gene flow in South American temperate lizards (Squamata: <i>Liolaemus kingii</i> group)*
       authors: <u>Sánchez KI</u>, Recknagel H, Elmer KR, Avila LJ, Morando M
       conference: |
-        Evolution qpae009<br>
+        Evolution 78, 716–733<br>
         <u>Media coverage</u>: <a href="https://www.youtube.com/watch?v=AbWyN4m0cW0">link 1</a>, <a href="https://www.diariojornada.com.ar/366828/sapiens/un_estudio_reconstruye_la_evolucion_de_lagartijas_patagonicas_y_propone_una_nueva_clasificacion">link 2</a>, <a href="https://cenpat.conicet.gov.ar/un-estudio-reconstruye-la-evolucion-de-lagartijas-patagonicas-y-propone-una-nueva-clasificacion/">link 3</a> 
       date: 2024
       link: https://doi.org/10.1093/evolut/qpae009
@@ -196,7 +196,7 @@ publication:
     - title: |
         Complex patterns of diversification in the gray zone of speciation: Model-based approaches applied to Patagonian liolaemid lizards (Squamata: <i>Liolaemus kingii</i> clade)*
       authors: <u>Sánchez KI</u>, Diaz Huesa EG, Breitman MF, Avila LJ, Sites Jr. JW, Morando M
-      conference: Systematic Biology syad019
+      conference: Systematic Biology 72, 739–752
       date: 2023
       link: https://doi.org/10.1093/sysbio/syad019
 
@@ -216,7 +216,7 @@ publication:
     - title: |
         Cytogenetic analyses in three species of <i>Moenkhausia</i> Eigenmann, 1903 (Characiformes, Characidae) from Upper Paraná River (Misiones, Argentina)*
       authors: <u>Sánchez KI</u>, Takagui FH, Fenocchio AS
-      conference: Caryologia 74 (4), 3–10
+      conference: Caryologia 74, 3–10
       date: 2021
       link: https://doi.org/10.36253/caryologia-1064
 
