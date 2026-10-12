@@ -8,9 +8,9 @@ basic:
 
 contact:
   # meta
-  location: Puerto Madryn, Argentina # location
+  location: Ann Arbor, Michigan, USA # location
   email: kevin.imanol.sanchez@gmail.com # email address
-  phone: +54-9-376-4672956 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+  phone: +1 (734) 353-7064 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
   # website: example.com # site URL without schema, like example.com, will automatically prepand "https://"
 
   # gender:                  # gender or pronoun
