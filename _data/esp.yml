@@ -720,7 +720,7 @@ interest:
     - item: Guitarra
     
 reference:
-  show: true
+  show: false
   order: 16
   title: Referencias
   description:
